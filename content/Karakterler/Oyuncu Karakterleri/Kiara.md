@@ -4,7 +4,7 @@ tags:
   - pc
 ---
 
-# Kiera
+# Kiara
 
 **Oyuncu:** Zühre · **Irk:** Shifter (kaplan) · **Sınıf:** Barbar
 

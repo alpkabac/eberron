@@ -6,7 +6,7 @@ aliases:
   - "Resnock"
 ---
 
-# Resnock Clasford
+# Resnak Clasford
 
 **Oyuncu:** Serkan · **Irk:** Halfling · **Sınıf:** Sorcerer · **Yaş:** ~38-39
 
