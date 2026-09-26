@@ -1,10 +1,10 @@
 ---
+title: "Eberron: Batı Sınırı"
 tür: moc
 tags:
   - moc
 aliases:
   - "Ana Sayfa"
-  - "Index"
 ---
 
 # 00 Kampanya Ana Sayfa
