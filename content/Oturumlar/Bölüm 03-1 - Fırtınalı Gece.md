@@ -9,8 +9,8 @@ tags:
 > [YouTube'da izle](https://www.youtube.com/watch?v=ZuHYYAU6uz0) · Önceki: [[Bölüm 02 - Kasabaya Geliş]] · Sonraki: [[Bölüm 03-2 - Fırtınalı Gece]]
 
 ## Gece dağılma
-- [[Kiera]] [[Çadır Bölgesi]]'ne gidiyor. Oradaki bağlantıları: sokak çocuğu [[Summer]] ve "Duvardaki Çatlak" aşevini işleten [[Kask]].
-- [[Ashara]] druid kulübesine, [[Rithia]] ile [[Resnock Clasford|Resnock]] [[Crown]]'daki odalarına dağılıyor.
+- [[Kiara]] [[Çadır Bölgesi]]'ne gidiyor. Oradaki bağlantıları: sokak çocuğu [[Summer]] ve "Duvardaki Çatlak" aşevini işleten [[Kask]].
+- [[Ashara]] druid kulübesine, [[Rithia]] ile [[Resnak Clasford|Resnock]] [[Crown]]'daki odalarına dağılıyor.
 - [[Şerif]] gece [[Leofrick]]'in evine dönüyor. Üst kat bozulmamış, [[Annet]]'in ilaçları duruyor. Çatıdan kasabayı gözlüyor. Resnock onu gizlice takip edip bir yağmur borusunun arkasında uyukluyor.
 
 ## Rithia'nın gecesi

@@ -13,8 +13,8 @@ tags:
 |---|---|---|
 | Uzun kılıç | Ghaal'dar savaşçıları (hobgoblin) | ? |
 | Gladius | Şarkıları taşıyan [[Durkala]] (goblin) | ? ([[Durkala Ritüel Hançeri]]?) |
-| Balta | Minotorlar | [[Bayeşk Balta]] → [[Kiera]] |
+| Balta | Minotorlar | [[Bayeşk Balta]] → [[Kiara]] |
 | Hançer | Dağların kurnaz koboldları | [[Bayeşk Hançer]] → çalındı |
 | Orak | Ejderha pullu orklar | ? ([[Hiradan]]?) |
 
-[[Kiera]], grubun bu beş silahı temsil ettiğine inanıyor.
+[[Kiara]], grubun bu beş silahı temsil ettiğine inanıyor.

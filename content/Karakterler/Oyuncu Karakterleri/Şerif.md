@@ -19,7 +19,7 @@ aliases:
 - Muhafızları: [[Cliff]], [[Lionel]] ve sonradan gelen on yeni muhafız.
 
 ## Sırlar
-- [[Kiera]] ile birlikte [[Altın Muhafızlar]] (King's Citadel) için gizli görevler yapıyor. Emirler [[Binbaşı İrlaşan]]'dan, gramofon aracılığıyla geliyor ([[Bölüm 06 - Profesör Beyoncé]]).
+- [[Kiara]] ile birlikte [[Altın Muhafızlar]] (King's Citadel) için gizli görevler yapıyor. Emirler [[Binbaşı İrlaşan]]'dan, gramofon aracılığıyla geliyor ([[Bölüm 06 - Profesör Beyoncé]]).
 - Warforged olmasına rağmen rüya görüyor. Rüyasında [[Telenor]] cesetleri Khyber kristalleriyle canlandırıyor ve Şerif'e "ruhsuz makine" diyor. Galada dumanın içinde Telenor'un kendisini boğduğunu gördü ("işe yaramaz hurda").
 - [[Durik]]'i yanlışlıkla vuran kurşunu gizlemek için kafayı ateşe attı.
 

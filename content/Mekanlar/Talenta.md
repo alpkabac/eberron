@@ -7,4 +7,4 @@ tags:
 
 # Talenta
 
-Halfling'lerin ovası. [[Resnock Clasford]] buradan geliyor. [[Mornland]]'in doğusunda kalıyor.
+Halfling'lerin ovası. [[Resnak Clasford]] buradan geliyor. [[Mornland]]'in doğusunda kalıyor.

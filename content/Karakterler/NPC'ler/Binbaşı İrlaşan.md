@@ -11,5 +11,5 @@ aliases:
 
 **Grup:** [[Altın Muhafızlar]]
 
-- [[Altın Gramofon]] aracılığıyla [[Şerif]] ile [[Kiera]]'ya gizli görevler veriyor.
+- [[Altın Gramofon]] aracılığıyla [[Şerif]] ile [[Kiara]]'ya gizli görevler veriyor.
 - [[Dr. Danel Ir'Morgot]] onu tanıyor.

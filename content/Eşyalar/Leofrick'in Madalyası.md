@@ -6,4 +6,4 @@ tags:
 
 # Leofrick'in Madalyası
 
-[[Leofrick]]'in 987 tarihli gümüş onur madalyası. Şu an [[Resnock Clasford|Resnock]]'ta.
+[[Leofrick]]'in 987 tarihli gümüş onur madalyası. Şu an [[Resnak Clasford|Resnock]]'ta.

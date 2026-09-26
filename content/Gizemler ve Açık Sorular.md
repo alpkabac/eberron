@@ -24,9 +24,9 @@ tags:
 
 ## Karakterler
 - [ ] [[Rithia]]'nın hastalığı: burun kanaması, bayılma, göğüs ağrısı. Taş onu neden tanıyor?
-- [ ] [[Resnock Clasford|Resnock]] ve [[Mornland]]: gerçekten oradan mı geçti? "Anomali" ne?
+- [ ] [[Resnak Clasford|Resnock]] ve [[Mornland]]: gerçekten oradan mı geçti? "Anomali" ne?
 - [ ] [[Şerif]] ve [[Telenor]]: bu rüyalar ne?
-- [ ] [[Kiera]] ve [[Lycanthropy]]: kendini kaybettiği o dönem neydi?
+- [ ] [[Kiara]] ve [[Lycanthropy]]: kendini kaybettiği o dönem neydi?
 - [ ] [[Andra'nın Eldivenleri]] identify edilecek.
 
 ## Kişiler ve gruplar

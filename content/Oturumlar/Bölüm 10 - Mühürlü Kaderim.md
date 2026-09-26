@@ -10,9 +10,9 @@ tags:
 
 ## Dolgrimler ve Choker
 - Taştan yankılanan kahkahalar grubu dört [[Dolgrim]]'e götürüyor. Tavanda bir [[Choker]] var.
-- [[Kiera]], Choker'ı ikiye biçiyor.
+- [[Kiara]], Choker'ı ikiye biçiyor.
 - [[Şerif]] son Dolgrim'i tabancayla öldürüyor.
-- [[Resnock Clasford|Resnock]] bilgi veriyor: Dolgrimler, [[Daelkyr]]'ler tarafından bozulmuş [[Dhakaan İmparatorluğu|Dhakaan]] goblinoidleri.
+- [[Resnak Clasford|Resnock]] bilgi veriyor: Dolgrimler, [[Daelkyr]]'ler tarafından bozulmuş [[Dhakaan İmparatorluğu|Dhakaan]] goblinoidleri.
 - Yarıktan [[Çak]] kurtarılıyor.
 
 ## Mühür Odası

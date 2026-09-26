@@ -13,7 +13,7 @@ tags:
 - Dev yarasa kullanan tek klan [[Komazdal Klanı]]. Bu klan [[Skomas Vadisi]]'nde yaşıyor, [[Sora Kell'in Kızları]]'nı reddetmiş ve "karanlık güçlere" yönelmiş.
 
 ## Sır
-[[Şerif]] gruba sırrını açıyor: kendisi ve [[Kiera]], [[Altın Muhafızlar]] (King's Citadel) için gizli görevler yapıyor. Üç kural var:
+[[Şerif]] gruba sırrını açıyor: kendisi ve [[Kiara]], [[Altın Muhafızlar]] (King's Citadel) için gizli görevler yapıyor. Üç kural var:
 1. Kimseye bahsetme.
 2. Sebep sorgulama.
 3. İşi tam bitir.
@@ -24,7 +24,7 @@ Herkes katılıyor.
 [[Altın Anahtar]] [[Altın Gramofon]]'a takılınca [[Binbaşı İrlaşan]]'ın mesajı çalıyor: [[Ardev Doğa Tarihi Müzesi]]'nde sergilenecek [[Greenmire Taşı]] aslında bir yaratığın yumurtası. Görev: yumurtayı çalıp [[Dr. Danel Ir'Morgot]]'a teslim etmek.
 
 ## Hazırlık ve Ardev
-- [[Kiera]], [[Alvin]]'e Durik'in öldüğünü söylüyor.
+- [[Kiara]], [[Alvin]]'e Durik'in öldüğünü söylüyor.
 - Orien istasyonunda [[Ria d'Orien]] ve [[Bruce Thane]] ile görüşülüyor.
 - Rithia, [[Sivis Binası]]'ndan "Profesör Doktor Beyoncé" kılığında telgraf çekiyor (bölümün adı buradan geliyor).
 - Alışverişler:

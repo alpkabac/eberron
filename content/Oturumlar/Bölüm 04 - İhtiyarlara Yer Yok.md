@@ -21,7 +21,7 @@ tags:
 Plan: hepsini [[Rithia]]'nın [[Crown]] konserine davet edip göz önünde tutmak.
 
 ## Stone Soup
-- [[Şerif]] ile [[Resnock Clasford|Resnock]], [[Stone Soup]]'ta [[Gareth Highstone|Gareth]] ile konuşuyor.
+- [[Şerif]] ile [[Resnak Clasford|Resnock]], [[Stone Soup]]'ta [[Gareth Highstone|Gareth]] ile konuşuyor.
 - Madenin yeni sahibi [[Honoria Soldorak]] ve [[Eski Maden]] konuşuluyor. Madende bir zamanlar Quickstone, mithril, adamantin ve [[Bayeşk]] çıkmış.
 - [[Greystone Şehitleri Anıtı|Anıtı]] Gareth'in işçileri yapmış, içine ailelerin ölülerinin kafataslarını koymuşlar. Gareth, gnoll kafatası koymadıklarını söylüyor.
 
@@ -31,7 +31,7 @@ Plan: hepsini [[Rithia]]'nın [[Crown]] konserine davet edip göz önünde tutma
 - Nero'nun uşağı [[Garvin]]. Tehdit edilince Nero "[[Üç Yüzlü Sikke]]"yi ima ediyor. Ceketi, piposu ve botları büyülü.
 
 ## Durik
-- [[Kiera]] ile [[Hagar]], [[Durik]]'i ziyaret ediyor. Durik 987'de [[Dougner Barakas|Barakas]]'ı kendisi öldürmüş ve kolunu bu dövüşte kaybetmiş.
+- [[Kiara]] ile [[Hagar]], [[Durik]]'i ziyaret ediyor. Durik 987'de [[Dougner Barakas|Barakas]]'ı kendisi öldürmüş ve kolunu bu dövüşte kaybetmiş.
 - Barakas'ın yıldırım saçan, fırtına çıkaran bir [[Barakas'ın Asası|asası]] vardı. Asayı [[Efeyn]] almış.
 - Grup Durik'i sıkıştırınca Durik kılıcını çekiyor. Sonra evlatlığı [[Alvin]]'i Kiera'ya emanet ediyor ve "Droaam'lılara dikkat edin" diyor.
 

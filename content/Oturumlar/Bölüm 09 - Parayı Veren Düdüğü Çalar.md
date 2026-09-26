@@ -19,8 +19,8 @@ tags:
 - [[Lycanthropy]] ve [[Silver Flame]] arınması anlatılıyor.
 
 ## Kamp sohbeti
-- [[Resnock Clasford|Resnock]]'ın vizyonu [[Mornland]]'e ait. Resnock [[Talenta]]'dan gelmiş, ama Mornland'den geçtiğini hatırlamıyor.
-- [[Kiera]], [[Vandlira d'Tarashk]]'ın onu tanımış olmasından endişe ediyor.
+- [[Resnak Clasford|Resnock]]'ın vizyonu [[Mornland]]'e ait. Resnock [[Talenta]]'dan gelmiş, ama Mornland'den geçtiğini hatırlamıyor.
+- [[Kiara]], [[Vandlira d'Tarashk]]'ın onu tanımış olmasından endişe ediyor.
 - [[Şerif]] şerifliğe "torpille" geldiğini söylüyor.
 - [[Ashara]] her gece yeşil parlayıp soluk eflatuna dönen kristallerle kaplı bir mağara rüyası görüyor.
 - Yargıca anlatılacak hikaye: "Araştırdık, bir şey bulamadık."

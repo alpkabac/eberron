@@ -16,7 +16,7 @@ tags:
 - [[Daff d'Jorasco|Daff]], madencilerin maden tarafında kurt benzeri büyük bir şey gördüğünü söylüyor.
 
 ## Sabah: Cliff'in dönüşü
-[[Cliff]], zift ve tüye bulanmış halde ata bağlı olarak geri geliyor. Atta, kopan vagona gönderilen dört muhafızın kesik kafaları var. Yanındaki notta Elfçe tek bir kelime yazıyor: "Sevgiler". Bunu yapan [[Gwyr the Nightingale|Nightingale]]. Başına 1500 altın ödül konmuş ([[Nightingale Çetesi]]). [[Kiera]] ipteki kokuyu ezberliyor.
+[[Cliff]], zift ve tüye bulanmış halde ata bağlı olarak geri geliyor. Atta, kopan vagona gönderilen dört muhafızın kesik kafaları var. Yanındaki notta Elfçe tek bir kelime yazıyor: "Sevgiler". Bunu yapan [[Gwyr the Nightingale|Nightingale]]. Başına 1500 altın ödül konmuş ([[Nightingale Çetesi]]). [[Kiara]] ipteki kokuyu ezberliyor.
 
 ## Rüyalar
 Ashara rüyasında sarışın, yeşil pelerinli bir elf kadın görüyor ([[Efeyn]]). Arkasında bir medusa silueti var ve şöyle diyor: "Bütün çocuklarımı severim… ama fırtına geliyor ve bu doğal olmayan bir fırtına."

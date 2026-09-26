@@ -6,4 +6,4 @@ tags:
 
 # Alvin
 
-[[Durik]]'in yaklaşık 10 yaşındaki evlatlığı, Cyre'li bir çocuk. [[Kiera]] ona Durik'in ölümünü söyledi ve onu [[Çadır Bölgesi]]'nde kendi annesine emanet etti.
+[[Durik]]'in yaklaşık 10 yaşındaki evlatlığı, Cyre'li bir çocuk. [[Kiara]] ona Durik'in ölümünü söyledi ve onu [[Çadır Bölgesi]]'nde kendi annesine emanet etti.

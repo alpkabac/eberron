@@ -19,7 +19,7 @@ tags:
 
 ## Vizyonlar
 - [[Rithia]]: taşın onu tanıdığını hissediyor, sonra bayılma numarası yapıyor. Onunla doktor [[Michel d'Jorasco]] ilgileniyor.
-- [[Resnock Clasford|Resnock]]: beyaz sis, duvara mızrakla çivilenmiş bir warforged, enkaz altında bir çocuk eli görüyor ([[Mornland]]).
+- [[Resnak Clasford|Resnock]]: beyaz sis, duvara mızrakla çivilenmiş bir warforged, enkaz altında bir çocuk eli görüyor ([[Mornland]]).
 - [[Ashara]]: oğlu [[Linear]]'ı [[Dhakaan Harabeleri]]'nde, elinde taşla görüyor. Çocuk "Sana sessiz olmayı öğretmiştim" diyor.
 - [[Şerif]]: dumanın içinde [[Telenor]] halüsinasyonu görüyor.
 

@@ -27,10 +27,10 @@ aliases:
 | Karakter | Oyuncu | Özet |
 |---|---|---|
 | [[Şerif]] | Oktay | Warforged şerif, gizli ajan |
-| [[Kiera]] | Zühre | Kaplan shifter barbar, Cyre'li |
+| [[Kiara]] | Zühre | Kaplan shifter barbar, Cyre'li |
 | [[Ashara]] | Damla | Medusa druid, [[Hagar]]'ın sahibi |
 | [[Rithia]] | Doğa | Mor tiefling ozan, gizemli hastalık |
-| [[Resnock Clasford]] | Serkan | Talenta'lı halfling sorcerer |
+| [[Resnak Clasford]] | Serkan | Talenta'lı halfling sorcerer |
 
 ## Hikaye yayları
 - **987'nin hayaletleri** (Bölüm 02-05): [[987 Saldırısı]] → [[Barakas'ın Asası]] → [[Efeyn]] → [[Sırtlan Yaratık]]. Bu yay kapandı.

@@ -9,7 +9,7 @@ tags:
 > [YouTube'da izle](https://www.youtube.com/watch?v=wT9-FWe2Vjc) · Sonraki: [[Bölüm 02 - Kasabaya Geliş]]
 
 ## Özet
-Kahramanlar, [[House Orien]]'in yıldırım raylarında giden [[Batı Şelalesi (Tren)|Batı Şelalesi]] trenine [[Ardev]]'de biniyor. Tren, maden kasabası [[Quickstone]]'a gidiyor. At sırtında dört gün süren yol trenle sekiz saat sürüyor. Grup ilk kez bu vagonda bir araya geliyor: [[Şerif]], [[Kiera]], [[Ashara]] (yanında [[Hagar]]), [[Rithia]] ve [[Resnock Clasford]].
+Kahramanlar, [[House Orien]]'in yıldırım raylarında giden [[Batı Şelalesi (Tren)|Batı Şelalesi]] trenine [[Ardev]]'de biniyor. Tren, maden kasabası [[Quickstone]]'a gidiyor. At sırtında dört gün süren yol trenle sekiz saat sürüyor. Grup ilk kez bu vagonda bir araya geliyor: [[Şerif]], [[Kiara]], [[Ashara]] (yanında [[Hagar]]), [[Rithia]] ve [[Resnak Clasford]].
 
 ### Vagondaki tanıdık yüzler
 - [[Gareth Highstone]]: [[Chanter Loncası]]'nın 200 yaşındaki huysuz cüce başı. Rithia'nın "taşın fısıltısını duyabildiğini" sezip ona madende iş teklif ediyor.

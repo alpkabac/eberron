@@ -11,4 +11,4 @@ tags:
 
 - Eski bir Breland askeri. 970'te geldi, [[987 Saldırısı]]ndan sağ kurtulan kahramanlardan.
 - Doğal olmayan bir fırtına gecesi evinde parçalandı ([[Sırtlan Yaratık]]).
-- Karısı [[Annet]]. Madalyası artık [[Resnock Clasford|Resnock]]'ta.
+- Karısı [[Annet]]. Madalyası artık [[Resnak Clasford|Resnock]]'ta.
