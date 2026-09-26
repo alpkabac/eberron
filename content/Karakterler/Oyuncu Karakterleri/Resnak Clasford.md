@@ -3,7 +3,7 @@ tür: oyuncu-karakteri
 tags:
   - pc
 aliases:
-  - "Resnock"
+  - Resnak
 ---
 
 # Resnak Clasford
