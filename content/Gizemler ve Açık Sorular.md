@@ -46,7 +46,7 @@ tags:
 - [ ] [[Warforged Titan]] söylentisi ve [[Codi]].
 - [x] Rithia'nın hastalığı: simbiyot, çıkarıldı.
 - [x] [[Andra'nın Eldivenleri]]: Arcanist Gloves.
-- [x] Hançerli Not: [[Dilenci]]'nin sözü.
+- [x] Hançerli Not: [[Dilenci Dane]]'nin sözü.
 
 ## Eberron Lore belgesinden
 - [ ] Eski şerif [[Constable]]'ı kim öldürdü? (Nero'nun "makarna süzgeci" tehdidi?)

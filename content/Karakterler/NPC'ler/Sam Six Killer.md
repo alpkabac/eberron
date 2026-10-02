@@ -4,6 +4,8 @@ tags:
   - npc
   - muhafız
   - quickstone
+aliases:
+  - "Sam"
 ---
 
 # Sam Six Killer

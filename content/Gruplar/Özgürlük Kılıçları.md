@@ -9,7 +9,7 @@ aliases:
 
 # Özgürlük Kılıçları
 
-*Swords of Liberty.* Breland monarşisine karşı isyancı bir grup. Sesleri [[Dilenci]].
+*Swords of Liberty.* Breland monarşisine karşı isyancı bir grup. Sesleri [[Dilenci Dane]].
 
 - Görüşleri:
   - Kral Boranel ateşkesi imzalayarak ve Cyre'li mültecileri kabul ederek halkına ihanet etti.

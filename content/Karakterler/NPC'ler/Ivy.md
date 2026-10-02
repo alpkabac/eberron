@@ -3,6 +3,8 @@ tür: npc
 tags:
   - npc
   - quickstone
+aliases:
+  - "Ivee"
 ---
 
 # Ivy

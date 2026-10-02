@@ -6,10 +6,10 @@ tags:
 
 # Bölüm 11 - Atlar ve Brocanlar
 
-> Önceki: [[Bölüm 10 - Mühürlü Kaderim]]
+> [YouTube'da izle](https://www.youtube.com/watch?v=DxCFpq2fYSo) · Önceki: [[Bölüm 10 - Mühürlü Kaderim]]
 
 ## Sabah (Sypheros 10)
-- [[Şerif]] kapısındaki [[Hançerli Not]]'u inceliyor. Hançer sıradan ve ucu paslı. Notun sözü, Breland'ın efsanevi halk figürü [[Dilenci]]'ye ait. Son bir yıldır bu isim, krallık karşıtı [[Özgürlük Kılıçları]]'nın sesi olarak kullanılıyor. Not bir propaganda da olabilir, doğrudan bir tehdit de.
+- [[Şerif]] kapısındaki [[Hançerli Not]]'u inceliyor. Hançer sıradan ve ucu paslı. Notun sözü, Breland'ın efsanevi halk figürü [[Dilenci Dane]]'ye ait. Son bir yıldır bu isim, krallık karşıtı [[Özgürlük Kılıçları]]'nın sesi olarak kullanılıyor. Not bir propaganda da olabilir, doğrudan bir tehdit de.
 - [[Kiara]]'ya [[Summer]] kilit açmayı öğretiyor ve 15 altına hırsız aletleri satıyor.
 - Seviye atlayan [[Hagar]] biraz büyümüş. [[Ashara]] ile mühür üzerine konuşuyorlar: silahlar bir araya gelirse mühür bozulabilir ya da korunabilir. [[Gatekeepers]] ve [[Taşka]] ile konuşulmalı.
 - Ashara, baltayı aldığı için [[Kiara]]'ya hak veriyor.

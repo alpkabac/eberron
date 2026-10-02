@@ -31,7 +31,7 @@ aliases:
 
 ## Bölüm 11
 - [[Çağış'ın Kolyesi]] identify edildi: **Amulet of Dexterity +2**.
-- Kapısındaki not, [[Dilenci]]'nin sözü ve [[Özgürlük Kılıçları]]'na işaret ediyor.
+- Kapısındaki not, [[Dilenci Dane]]'nin sözü ve [[Özgürlük Kılıçları]]'na işaret ediyor.
 - Yokluğunda [[Cliff]]'i vekil şerif, [[Sam Six Killer]]'ı onun yardımcısı yaptı.
 
 Irk: [[Warforged]]. Şeriflikteki selefi [[Constable]] bir yıl önce çözülmemiş bir cinayete kurban gitti.
