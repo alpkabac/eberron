@@ -11,8 +11,8 @@ tags:
 ## Octavio cinayeti
 - Şerif karanlıkta arkasında hırıltılı, insan dışı bir nefes duyuyor.
 - Gece saat 02 civarında [[Vadalis Çiftliği]]'nin arkasında [[Octavio]] parçalanmış olarak bulunuyor. Duvarda kanla, kopmuş bir parmakla yazılmış bir yazı var.
-- [[Rithia]] iz sürerken kayboluyor. [[Ashara]] onu [[Greystone Şehitleri Anıtı|anıtın]] önünde baygın halde buluyor ve [[Taşka]]'nın çadırına götürüyor. Taşka'nın yavru bir cockatrice'i ve Droaam'lı bir ogre koruması var. Taşka, Rithia'ya "Venomous Demesne'den mi geldin?" diye soruyor.
-- Resnock yazıyı okuyor. Yazı Abyssal dilinde ve bir isim veriyor: **[[Durik]]**. Ashara'ya göre Durik ya sıradaki kurban ya da failin kendisi. Şerif yazıyı siliyor.
+- [[Rithia]] iz sürerken kayboluyor. [[Ashara]] onu [[Graystone Şehitleri Anıtı|anıtın]] önünde baygın halde buluyor ve [[Taşka]]'nın çadırına götürüyor. Taşka'nın yavru bir cockatrice'i ve Droaam'lı bir ogre koruması var. Taşka, Rithia'ya "Venomous Demesne'den mi geldin?" diye soruyor.
+- Resnak yazıyı okuyor. Yazı Abyssal dilinde ve bir isim veriyor: **[[Durik]]**. Ashara'ya göre Durik ya sıradaki kurban ya da failin kendisi. Şerif yazıyı siliyor.
 - [[Daff d'Jorasco|Daff]], madencilerin maden tarafında kurt benzeri büyük bir şey gördüğünü söylüyor.
 
 ## Sabah: Cliff'in dönüşü

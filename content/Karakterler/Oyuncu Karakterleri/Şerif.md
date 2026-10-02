@@ -28,3 +28,10 @@ aliases:
 - Galada [[Yeşim Taşı]]'nı çaldı. Kimliği büyük ölçüde açığa çıktı.
 - [[Çağış'ın Kolyesi]] onda.
 - Kapısına [[Hançerli Not]] saplandı.
+
+## Bölüm 11
+- [[Çağış'ın Kolyesi]] identify edildi: **Amulet of Dexterity +2**.
+- Kapısındaki not, [[Dilenci]]'nin sözü ve [[Özgürlük Kılıçları]]'na işaret ediyor.
+- Yokluğunda [[Cliff]]'i vekil şerif, [[Sam Six Killer]]'ı onun yardımcısı yaptı.
+
+Irk: [[Warforged]]. Şeriflikteki selefi [[Constable]] bir yıl önce çözülmemiş bir cinayete kurban gitti.

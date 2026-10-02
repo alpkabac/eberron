@@ -9,7 +9,7 @@ tags:
 > [YouTube'da izle](https://www.youtube.com/watch?v=nXBpw07UCPg) · Önceki: [[Bölüm 05 - Doğal Felaket]] · Sonraki: [[Bölüm 07 - Müze Gezisi]]
 
 ## Kobold'lar
-- Kobold kampında overseer [[Vonondor]] ile konuşuluyor ([[Karpal Klanı]]). Tren saldırısını Karpal yapmamış.
+- Kobold kampında overseer [[Vonondor]] ile konuşuluyor ([[Khaar'paal Klanı]]). Tren saldırısını Khaar'paal yapmamış.
 - Dev yarasa kullanan tek klan [[Komazdal Klanı]]. Bu klan [[Skomas Vadisi]]'nde yaşıyor, [[Sora Kell'in Kızları]]'nı reddetmiş ve "karanlık güçlere" yönelmiş.
 
 ## Sır
@@ -28,7 +28,7 @@ Herkes katılıyor.
 - Orien istasyonunda [[Ria d'Orien]] ve [[Bruce Thane]] ile görüşülüyor.
 - Rithia, [[Sivis Binası]]'ndan "Profesör Doktor Beyoncé" kılığında telgraf çekiyor (bölümün adı buradan geliyor).
 - Alışverişler:
-  - [[Tuwa Ticarethanesi]]'nden duman bombası
+  - [[Tuuva Ticarethanesi]]'nden duman bombası
   - [[Daff d'Jorasco|Daff]]'tan Cure Light Wounds değneği
   - [[Anvil]]'de identify: [[Wand of Lesser Vigor]]
 - [[Cliff]] vagon soygununu anlatıyor: 15-20 kişilik bir çete, dev adam [[Eneko]] vagonu kaldırıp götürmüş.

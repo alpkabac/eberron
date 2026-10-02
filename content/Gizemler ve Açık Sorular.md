@@ -24,15 +24,32 @@ tags:
 
 ## Karakterler
 - [ ] [[Rithia]]'nın hastalığı: burun kanaması, bayılma, göğüs ağrısı. Taş onu neden tanıyor?
-- [ ] [[Resnak Clasford|Resnock]] ve [[Mornland]]: gerçekten oradan mı geçti? "Anomali" ne?
+- [ ] [[Resnak Clasford|Resnak]] ve [[Mornland]]: gerçekten oradan mı geçti? "Anomali" ne?
 - [ ] [[Şerif]] ve [[Telenor]]: bu rüyalar ne?
 - [ ] [[Kiara]] ve [[Lycanthropy]]: kendini kaybettiği o dönem neydi?
 - [ ] [[Andra'nın Eldivenleri]] identify edilecek.
 
 ## Kişiler ve gruplar
 - [ ] [[Hançerli Not]]: "Hainin kendinden başka suçlayacağı kimse yoktur." Kim gönderdi, kimi kastediyor?
-- [ ] [[Vandlira d'Tarashk]] Kiera'yı tanıdı mı?
+- [ ] [[Vandlira d'Tharashk]] Kiara'yı tanıdı mı?
 - [ ] [[Halamar Ailesi]] intikam alacak mı?
 - [ ] [[Nero Vadalis]] ve [[Üç Yüzlü Sikke]] bağlantısı.
 - [ ] [[Trien]]: nereden geldi?
 - [ ] [[Gwyr the Nightingale]]'in 1500 altınlık ödülü.
+
+## Bölüm 11'de eklenenler
+- [ ] Bozkırdaki gözleri oyulmuş **Daff** kimdi? **Beş hayalet at** ne istiyor?
+- [ ] [[Rithia]]'ya [[Daelkyr Simbiyotu]] nasıl bulaştı? İçindeki dragonshard nereden geliyor?
+- [ ] [[Hiradan]]'ı kim takip ediyordu?
+- [ ] [[Özgürlük Kılıçları]] Quickstone'da bir şey mi planlıyor?
+- [ ] [[Cazhaak Draal]]'daki kılıç bulunacak mı?
+- [ ] [[Warforged Titan]] söylentisi ve [[Codi]].
+- [x] Rithia'nın hastalığı: simbiyot, çıkarıldı.
+- [x] [[Andra'nın Eldivenleri]]: Arcanist Gloves.
+- [x] Hançerli Not: [[Dilenci]]'nin sözü.
+
+## Eberron Lore belgesinden
+- [ ] Eski şerif [[Constable]]'ı kim öldürdü? (Nero'nun "makarna süzgeci" tehdidi?)
+- [ ] [[Turakbar'ın Yumruğu]] minotaurları ve mühürdeki balta arasında bir bağ var mı?
+- [ ] [[Rithia]]'nın içindeki dragonshard: bilerek mi entegre edildi?
+- [ ] [[Dhakaan Harabeleri]] ve [[Haunt]], Orlask'ın hapishanesiyle bağlantılı mı?

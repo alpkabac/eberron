@@ -22,6 +22,7 @@ aliases:
 8. [[Bölüm 08 - Bu Gala Taşlı Gala]]
 9. [[Bölüm 09 - Parayı Veren Düdüğü Çalar]]
 10. [[Bölüm 10 - Mühürlü Kaderim]]
+11. [[Bölüm 11 - Atlar ve Brocanlar]]
 
 ## Grup
 | Karakter | Oyuncu | Özet |
@@ -34,11 +35,14 @@ aliases:
 
 ## Hikaye yayları
 - **987'nin hayaletleri** (Bölüm 02-05): [[987 Saldırısı]] → [[Barakas'ın Asası]] → [[Efeyn]] → [[Sırtlan Yaratık]]. Bu yay kapandı.
-- **Greenmire Taşı** (Bölüm 06-09): [[Altın Muhafızlar]] görevi. [[Greenmire Taşı]] [[Bayeşk Kafes]]'e kondu. Bu yay kapandı, ama [[Halamar Ailesi]] ve [[Vandlira d'Tarashk]] hâlâ risk.
+- **Greenmire Taşı** (Bölüm 06-09): [[Altın Muhafızlar]] görevi. [[Greenmire Taşı]] [[Bayeşk Kafes]]'e kondu. Bu yay kapandı, ama [[Halamar Ailesi]] ve [[Vandlira d'Tharashk]] hâlâ risk.
 - **Maden ve mühür** (Bölüm 09-10): [[Eski Maden]] → [[Mühür Odası]] → [[Mühür Kehaneti]] → [[Orlask]]. Bu yay açık.
+- **Skomas seferi** (Bölüm 11-): [[Bayeşk Hançer]]'i geri almak için [[Komazdal Klanı]]'na gidiliyor. [[Taşka]] kılıcı araştırıyor, [[Hiradan]] Shavalant'ta. Bu yay açık.
+- **Quickstone'da gerginlik:** [[Özgürlük Kılıçları]], [[Hançerli Not]], vekil şerif [[Cliff]]. Bu yay açık.
 - **Tren ve bayeşk hançer** (Bölüm 01'den beri): [[Bayeşk Hançer]], [[Gargoyle Kadın]], [[Komazdal Klanı]]. Bu yay açık.
 
 ## Dizinler
+- [[Eberron Rehberi]]: dünya, ülkeler, ırklar, dinler, haneler
 - [[Gizemler ve Açık Sorular]]
 - [[Zaman Çizelgesi]]
 - Klasörler: Karakterler, Mekanlar, Gruplar, Eşyalar, Bilgi

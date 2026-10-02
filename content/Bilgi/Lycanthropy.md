@@ -11,3 +11,5 @@ Lanet mi virüs mü olduğu tartışmalı. Isırık, salya ve kan yoluyla bulaş
 - Shifter'lar lycanthrope'ların soyundan geliyor, ama shifter'lık bir hastalık değil.
 - [[Silver Flame]] büyük bir arınma yaptı.
 - [[Halamar Ailesi]]'nin bu hastalığı taşıdığı söyleniyor.
+
+Resmi kaynağa göre arınma **832** yılında başladı. Lanet o yıl normalden çok daha fazla kişide görülünce [[Silver Flame]] harekete geçti. Bkz. [[Shifter]].

@@ -12,3 +12,6 @@ tags:
 - [[Rithia]] burada pazartesi ve çarşamba sahneye çıkıyor.
 - Yeni yıldız [[Trien]].
 - Önündeki kuyunun yanında hiç kullanılmamış bir darağacı var.
+
+## Resmi bilgiler
+Asıl adı **Taç**, kasabanın ilk hanı (992). Kapı fedaisi bir troll ([[Krimm]]). Graywall'lu harpy ozan [[Silk]] zaman zaman burada sahneye çıkıyor.

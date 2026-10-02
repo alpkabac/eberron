@@ -6,4 +6,4 @@ tags:
 
 # Edmund
 
-Ölü bir Breland askeri. [[Percival d'Orien]]'in babası ve [[Jessa Gray]]'in silah arkadaşı.
+Ölü bir Breland askeri. [[Percival d'Orien]]'in babası ve [[Jessa Grain]]'in silah arkadaşı.

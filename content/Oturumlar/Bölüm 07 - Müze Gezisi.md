@@ -13,7 +13,7 @@ tags:
 - Alışveriş:
   - [[Büyü Çemberi]]'nden iki Disguise Self parşömeni
   - [[Glamourweave]]'de [[Missa]]'dan illüzyonlu gala kıyafetleri. Dükkanı dün gece [[Halamar Ailesi|Halamar]]'lar soymuş.
-  - Kiera için ışık soğuran bir pelerin
+  - Kiara için ışık soğuran bir pelerin
 
 ## Müze keşfi
 [[Ardev Doğa Tarihi Müzesi]]:
@@ -23,4 +23,4 @@ tags:
 - gizli kapılar, oynayan bir zemin karosu
 - muhafızlar: [[Grondar]], [[Shield]] ve divination büyülü keseler
 
-Şerif çatı penceresinin kilidini açık bırakıyor. Resnock bir muhafızın kesesini çalıyor ve çatı katında saklanıyor.
+Şerif çatı penceresinin kilidini açık bırakıyor. Resnak bir muhafızın kesesini çalıyor ve çatı katında saklanıyor.

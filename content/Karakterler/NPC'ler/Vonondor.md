@@ -7,4 +7,4 @@ tags:
 
 # Vonondor
 
-Mavi-lacivert pullu, iki değnekli büyücü kobold. [[Karpal Klanı]]'nın overseer'ı, [[House Orien]] için ray işçilerini yönetiyor.
+Mavi-lacivert pullu, iki değnekli büyücü kobold. [[Khaar'paal Klanı]]'nın overseer'ı, [[House Orien]] için ray işçilerini yönetiyor.

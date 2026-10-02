@@ -6,4 +6,4 @@ tags:
 
 # Chanter Loncası
 
-Quickstone taşını şarkıyla ("taşın şarkısı") işleyen usta lonca. Başı [[Gareth Highstone]]. [[Çağış]] da bir chanter.
+Quickstone taşını şarkıyla ("taşın şarkısı") işleyen usta lonca. Başı [[Gareth Brimmstone]]. [[Çağış]] da bir chanter.

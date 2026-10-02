@@ -21,3 +21,10 @@ aliases:
 - [[Greenmire Taşı]]'nın vizyonu: beyaz sis, çivilenmiş bir warforged, bir çocuk eli. Bu [[Mornland]]'e işaret ediyor.
 - Talenta'dan buraya gelmek için Mornland'den geçmiş olmalı, ama hatırlamıyor. DM ona bir "anomali"den bahsetmişti.
 - Taşın zihin saldırılarından pek etkilenmedi. Sovereign'ların onu koruduğunu düşünüyor.
+
+## Bölüm 11
+- [[Andra'nın Eldivenleri]] identify edildi: **Arcanist Gloves**. Eldivenler onda.
+- Taşka'ya kehaneti kendi notlarından okudu ([[Mühür Kehaneti]]).
+- Nöbetteyken gözleri oyulmuş bir [[Daff d'Jorasco|Daff]] görüntüsü ve hayalet dinozoru gibi parlayan **beş hayalet at** gördü.
+
+Irk: [[Halfling]] ([[Talenta]]).

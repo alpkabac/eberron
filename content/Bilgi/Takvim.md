@@ -10,3 +10,5 @@ tags:
 - Tren olayı: Sypheros 1
 - Ardev'e gidiş: Sypheros 5 (cuma)
 - Quickstone'a dönüş: Sypheros 9 (Mol günü) akşamı
+
+**Şu anki yıl: 998 YK.**

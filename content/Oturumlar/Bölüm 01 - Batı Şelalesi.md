@@ -12,7 +12,7 @@ tags:
 Kahramanlar, [[House Orien]]'in yıldırım raylarında giden [[Batı Şelalesi (Tren)|Batı Şelalesi]] trenine [[Ardev]]'de biniyor. Tren, maden kasabası [[Quickstone]]'a gidiyor. At sırtında dört gün süren yol trenle sekiz saat sürüyor. Grup ilk kez bu vagonda bir araya geliyor: [[Şerif]], [[Kiara]], [[Ashara]] (yanında [[Hagar]]), [[Rithia]] ve [[Resnak Clasford]].
 
 ### Vagondaki tanıdık yüzler
-- [[Gareth Highstone]]: [[Chanter Loncası]]'nın 200 yaşındaki huysuz cüce başı. Rithia'nın "taşın fısıltısını duyabildiğini" sezip ona madende iş teklif ediyor.
+- [[Gareth Brimmstone]]: [[Chanter Loncası]]'nın 200 yaşındaki huysuz cüce başı. Rithia'nın "taşın fısıltısını duyabildiğini" sezip ona madende iş teklif ediyor.
 - [[Hiradan]]: Mor ejderha pulu pelerinli yarı-ork kadın. Ashara pelerinin [[Gatekeepers]]'a ait olduğunu anlıyor.
 - [[Isti]]: [[Şerif]]'i sorularıyla darlayan Sharn Inquisitive muhabiri.
 - [[Daff d'Jorasco]]: Geveze ama iyi niyetli halfling doktor. Medusaların taşlaştırmasını "tıbbi merakla" sorunca Ashara'yı kızdırıyor.
@@ -21,8 +21,8 @@ Kahramanlar, [[House Orien]]'in yıldırım raylarında giden [[Batı Şelalesi 
 
 ### Kobold baskını
 - Dev bir yarasa camları kırıp vagona yedi kobold bırakıyor. Kobold'lar "Taş için!" diye bağırıyor.
-- Yemek vagonunda üç görevli ölü bulunuyor. Yaralı yarasayı Kiera, Rithia ve Resnock öldürüyor.
-- Lokomotif kapısını [[Mor Kalkan]]lı bir kobold koruyor. Kiera kalkanı söküp alıyor, [[Toka]] kobold'u yakıyor. Kobold ölmeden önce Undercommon dilinde "Ben burayı korumak" diyor.
+- Yemek vagonunda üç görevli ölü bulunuyor. Yaralı yarasayı Kiara, Rithia ve Resnak öldürüyor.
+- Lokomotif kapısını [[Mor Kalkan]]lı bir kobold koruyor. Kiara kalkanı söküp alıyor, [[Toka]] kobold'u yakıyor. Kobold ölmeden önce Undercommon dilinde "Ben burayı korumak" diyor.
 
 ### Lokomotifteki gargoyle
 Bir [[Gargoyle Kadın]], [[Percival d'Orien|Percival]]'i kendi bayeşk hançeriyle öldürüyor. Ashara'ya "Bize katıl, kardeşim" diyor. Taşın getireceği "huzur ve sessizlikten" söz eden bir fısıltı büyüsü okuyor ve [[Bayeşk Hançer|hançerle]] kaçıyor. Motordaki [[Tren Khyber Kristali|Khyber kristali]] kontrolden çıkmış, tren giderek hızlanıyor.

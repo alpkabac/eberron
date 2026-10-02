@@ -13,3 +13,6 @@ tags:
 - [[Leofrick]]'in cesedini ve pençe izlerini inceledi.
 - Kopan vagona gitti. [[Nightingale Çetesi]] onu zift ve tüye bulayıp dört muhafızın kesik kafasıyla geri yolladı.
 - İyileşince soygunu anlattı: 15-20 kişilik bir çete, yüzü boyalı elf lider ve dev [[Eneko]].
+
+## Bölüm 11
+Şerif yokken **vekil şerif** oldu. Yardımcısı [[Sam Six Killer]]. Yaralarının bazıları kalıcı olacak.

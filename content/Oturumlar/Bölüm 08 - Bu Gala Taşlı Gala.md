@@ -11,7 +11,7 @@ tags:
 ## Gala
 - Davetliler:
   - [[Profesör Rogers]]
-  - [[Vandlira d'Tarashk]] (Kiera'yı tanıyor)
+  - [[Vandlira d'Tharashk]] (Kiara'yı tanıyor)
   - şişman bir halfling (Halamar ajanı)
   - Breland subayları
   - [[Aldira Arkin]]
@@ -19,14 +19,14 @@ tags:
 
 ## Vizyonlar
 - [[Rithia]]: taşın onu tanıdığını hissediyor, sonra bayılma numarası yapıyor. Onunla doktor [[Michel d'Jorasco]] ilgileniyor.
-- [[Resnak Clasford|Resnock]]: beyaz sis, duvara mızrakla çivilenmiş bir warforged, enkaz altında bir çocuk eli görüyor ([[Mornland]]).
+- [[Resnak Clasford|Resnak]]: beyaz sis, duvara mızrakla çivilenmiş bir warforged, enkaz altında bir çocuk eli görüyor ([[Mornland]]).
 - [[Ashara]]: oğlu [[Linear]]'ı [[Dhakaan Harabeleri]]'nde, elinde taşla görüyor. Çocuk "Sana sessiz olmayı öğretmiştim" diyor.
 - [[Şerif]]: dumanın içinde [[Telenor]] halüsinasyonu görüyor.
 
 ## Soygun
 - Şerif [[Yeşim Taşı]]'nı çalıyor.
 - Duman bombası patlıyor, alarm çalıyor, kapılar kilitleniyor.
-- [[Shield]] Resnock'ı yakalıyor. Yumurta çatlıyor.
-- [[Hagar]] asitle Resnock'ı kurtarıyor. Grup camdan kaçıyor.
+- [[Shield]] Resnak'ı yakalıyor. Yumurta çatlıyor.
+- [[Hagar]] asitle Resnak'ı kurtarıyor. Grup camdan kaçıyor.
 - Parkta pusuda bekleyen üç [[Halamar Ailesi|Halamar]] halflingi yeniliyor.
 - Yumurta, [[Dr. Danel Ir'Morgot|Dr. Danel]]'in [[Bayeşk Kafes]]'ine mühürleniyor.

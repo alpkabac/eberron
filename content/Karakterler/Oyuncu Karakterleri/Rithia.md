@@ -15,7 +15,7 @@ tags:
 - Bir ateş değneği var.
 
 ## Gizemli durumu
-- [[Gareth Highstone]]'a göre "taşın fısıltısını duyabiliyor".
+- [[Gareth Brimmstone]]'a göre "taşın fısıltısını duyabiliyor".
 - Büyü gücünü zorladıktan sonra nefes darlığı ve göğüs ağrısı başladı. Burun kanamaları ve bayılmaları var.
 - [[Eski Maden]]'e yalnız indi, [[Quickstone Taşı]]na battı. Maden girişindeki vagonda uyandı, ipi kopmuştu.
 - [[Greenmire Taşı]] onu "tanıdı".
@@ -25,3 +25,12 @@ tags:
 ## İlişkiler
 - [[Logan Hull]]: Rithia yokken [[Trien]]'i sahneye çıkarmış.
 - [[Taşka]]: Rithia'ya "Venomous Demesne'den mi geldin?" diye sordu.
+
+## Bölüm 11: Ameliyat
+- [[Daff d'Jorasco|Daff]], Rithia'nın içinden bir **[[Daelkyr Simbiyotu]]** çıkardı. Hastalığının sebebi buydu.
+- İçindeki **dragonshard** simbiyota direnmişti ve hâlâ yerinde. Rithia artık bunun farkında.
+- Baş ağrıları ve kanamalar geçti. Yeni bir 1. seviye büyü kazandı (günde bir kez).
+- [[Hazel d'Ghallanda]], [[Gold Dragon Inn]]'de sahne teklif etti. Rithia [[Crown]]'u bırakmayı düşünüyor.
+- Daff'a 250 altınlık ameliyat borcu var (50'si ödendi).
+
+Irk: [[Tiefling]] (Venomous Demesne?).

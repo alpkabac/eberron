@@ -8,7 +8,7 @@ tags:
 
 # Eski Maden
 
-Quickstone'un kapalı eski madeni (harita #2). Girişi [[Greystone Şehitleri Anıtı]]'nın yanında.
+Quickstone'un kapalı eski madeni (harita #2). Girişi [[Graystone Şehitleri Anıtı]]'nın yanında.
 
 - Bir zamanlar Quickstone, mithril, adamantin ve [[Bayeşk]] çıkarıldı. Açıklanamayan kazalar yüzünden kapatıldı.
 - Yeni sahibi [[Honoria Soldorak]].

@@ -22,3 +22,5 @@ tags:
 
 ## Eşyalar
 - [[Wand of Lesser Vigor]]
+
+Irk: [[Medusa]]. Anavatanı [[Cazhaak Draal]].
