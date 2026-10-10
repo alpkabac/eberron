@@ -14,3 +14,6 @@ tags:
 - [[Şerif]]'in geçmişiyle bağlantılı olabilir.
 
 Bağlam: [[Karrnath]] savaşta nekromansiyi bir araç olarak kullandı ([[Blood of Vol]]).
+
+## Bölüm 12
+DM, [[Şerif]]'in nekromansi bilgisini **"eski kadim dostu Telenor sayesinde"** edindiğini söyledi. Yani Telenor, Şerif'in geçmişinden gerçek bir dost (ve muhtemelen Karrnath'lı bir nekromansiyen).

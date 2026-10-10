@@ -21,7 +21,7 @@ tags:
 - [[Ashara]], [[Durkala]] rolünü hatırlıyor.
 - Kiara, arkadaşları karşı çıksa da [[Bayeşk Balta]]'yı alıyor. [[Piercer]]'lar ve bir gargoyle saldırıyor. Gargoyle'a yalnızca bayeşk işliyor. [[Hagar]] gargoyle'u öldürüyor.
 - Ashara bir görü görüyor: tahtta beş yüzlü taş bir varlık, önünde "**[[Orlask]]**" diye fısıldayan yaratıklar.
-- Ashara'nın teorisine göre [[Gatekeepers]] burada bir Daelkyr'i mühürlemiş ve [[Dougner Barakas]]'ın asıl hedefi bu odaydı.
+- Ashara'nın teorisine göre [[Gatekeepers]] burada bir Daelkyr'i mühürlemiş ve [[Dagnyr Barrakas]]'ın asıl hedefi bu odaydı.
 
 ## Yüzey
 - [[Gore]] ile [[Willie]] ölmüş. [[Çağış]] madencilikten vazgeçiyor ve Şerif'e [[Çağış'ın Kolyesi|aile yadigarı bir kolye]] hediye ediyor.

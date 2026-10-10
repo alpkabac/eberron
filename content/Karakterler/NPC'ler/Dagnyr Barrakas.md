@@ -7,15 +7,17 @@ tags:
 aliases:
   - "Barakas"
   - "Dagnir Barakas"
+  - "Dougner Barakas"
+  - "Barakas"
 ---
 
-# Dougner Barakas
+# Dagnyr Barrakas
 
 **Irk:** Gnoll büyücü · **Durum:** 987'de öldü
 
 - [[987 Saldırısı]]nın lideri. [[Dark Six]]'e değil [[Daelkyr]]'lere hizmet ediyordu. [[Sora Kell'in Kızları]]'ndan bağımsızdı.
 - [[Durik]] onu öldürdü. Cesedi yakıldı.
-- Yıldırım saçan, fırtına çıkaran asası ([[Barakas'ın Asası]]) onun ruhunu taşıyordu. Gnoll kafatası [[Graystone Şehitleri Anıtı|anıta]] gizlenmişti.
+- Yıldırım saçan, fırtına çıkaran asası ([[Barrakas'ın Asası]]) onun ruhunu taşıyordu. Gnoll kafatası [[Graystone Şehitleri Anıtı|anıta]] gizlenmişti.
 - [[Ashara]]'nın teorisi: asıl hedefi [[Mühür Odası]]'ydı.
 
 Bkz. [[Cults of the Dragon Below]], [[Znir Paktı]].

@@ -34,3 +34,6 @@ tags:
 - Arka planında bir mind flayer bağlantısı var. DM: "20 bölüm sonra görürsünüz."
 
 Irk: [[Shifter]]. Ülkesi Cyre ([[Mornland]]).
+
+## Bölüm 12
+Pusu kampındaki okları [[Komazdal Klanı|Komazdal]] oklarına benzetti ve iki tanesini aldı. Allip'ten ağır wisdom drain yedi (7'ye düştü), Ashara iyileştirdi. [[Bayeşk Balta]] Allip'e işledi.

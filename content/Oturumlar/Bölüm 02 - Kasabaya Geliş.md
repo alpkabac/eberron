@@ -21,7 +21,7 @@ tags:
   2. Dün gece [[Leofrick]] evinde parçalanarak öldürüldü. O gece olağanüstü bir fırtına vardı.
   3. Kopan kargo vagonu.
 - Grup şerif yardımcısı oluyor. Rithia pazarlık ediyor: haftada 10 altın, ilk hafta peşin.
-- [[Taşka]], Ashara'ya Yılan dilinde, [[Efeyn]] adlı druidin iz bırakmadan kaybolduğunu söylüyor. Efeyn'in [[Dhakaan Harabeleri]] yakınındaki kulübesi Ashara'ya veriliyor.
+- [[Taşka]], Ashara'ya Yılan dilinde, [[Effain]] adlı druidin iz bırakmadan kaybolduğunu söylüyor. Effain'in [[Dhakaan Harabeleri]] yakınındaki kulübesi Ashara'ya veriliyor.
 
 ## Leofrick cinayeti
 - Dul eşi [[Annet]]: gece yoğun yağmur, bir çığlık, kırık kapı ve kanlar içinde Leofrick.

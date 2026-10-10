@@ -23,6 +23,7 @@ aliases:
 9. [[Bölüm 09 - Parayı Veren Düdüğü Çalar]]
 10. [[Bölüm 10 - Mühürlü Kaderim]]
 11. [[Bölüm 11 - Atlar ve Brocanlar]]
+12. [[Bölüm 12 - Biletler Lütfen]]
 
 ## Grup
 | Karakter | Oyuncu | Özet |
@@ -34,7 +35,7 @@ aliases:
 | [[Resnak Clasford]] | Serkan | Talenta'lı halfling sorcerer |
 
 ## Hikaye yayları
-- **987'nin hayaletleri** (Bölüm 02-05): [[987 Saldırısı]] → [[Barakas'ın Asası]] → [[Efeyn]] → [[Sırtlan Yaratık]]. Bu yay kapandı.
+- **987'nin hayaletleri** (Bölüm 02-05): [[987 Saldırısı]] → [[Barrakas'ın Asası]] → [[Effain]] → [[Sırtlan Yaratık]]. Bu yay kapandı.
 - **Greenmire Taşı** (Bölüm 06-09): [[Altın Muhafızlar]] görevi. [[Greenmire Taşı]] [[Bayeşk Kafes]]'e kondu. Bu yay kapandı, ama [[Halamar Ailesi]] ve [[Vandlira d'Tharashk]] hâlâ risk.
 - **Maden ve mühür** (Bölüm 09-10): [[Eski Maden]] → [[Mühür Odası]] → [[Mühür Kehaneti]] → [[Orlask]]. Bu yay açık.
 - **Skomas seferi** (Bölüm 11-): [[Bayeşk Hançer]]'i geri almak için [[Komazdal Klanı]]'na gidiliyor. [[Taşka]] kılıcı araştırıyor, [[Hiradan]] Shavalant'ta. Bu yay açık.

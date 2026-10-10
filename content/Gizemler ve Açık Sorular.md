@@ -53,3 +53,12 @@ tags:
 - [ ] [[Turakbar'ın Yumruğu]] minotaurları ve mühürdeki balta arasında bir bağ var mı?
 - [ ] [[Rithia]]'nın içindeki dragonshard: bilerek mi entegre edildi?
 - [ ] [[Dhakaan Harabeleri]] ve [[Haunt]], Orlask'ın hapishanesiyle bağlantılı mı?
+
+## Bölüm 12'de eklenenler
+- [ ] [[Percival d'Orien|Percival]]'ın ruhunu kim [[Allip]]'e çevirip [[Kırık Fener|fenere]] bağladı?
+- [ ] Hayalet atlara bizi götürmelerini kim söyledi? Gözleri oyulmuş "Daff" kimdi?
+- [ ] Pusu kampındaki kervan neydi, yükü neredeydi? Komazdal mı yaptı?
+- [ ] [[Graska]] kim?
+- [ ] [[Tilmarra Greensparrow]]'la [[Rithia]]'nın geçmişi.
+- [ ] [[Telenor]], Şerif'in "kadim dostu". Geçmişleri ne?
+- [ ] [[Aramha]] (17-19 Sypheros): Komazdal kutlayacak mı?

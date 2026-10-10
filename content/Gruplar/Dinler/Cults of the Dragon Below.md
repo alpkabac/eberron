@@ -9,6 +9,6 @@ aliases:
 
 # Cults of the Dragon Below
 
-Khyber'de hapsedilmiş Overlord, [[Daelkyr]] ve iblislere tapan gizli kültler. [[Dougner Barakas]] da bir Daelkyr takipçisiydi.
+Khyber'de hapsedilmiş Overlord, [[Daelkyr]] ve iblislere tapan gizli kültler. [[Dagnyr Barrakas]] da bir Daelkyr takipçisiydi.
 
 > Kaynak: *Eberron Lore* belgesi.

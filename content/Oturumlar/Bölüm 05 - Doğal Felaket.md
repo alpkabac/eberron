@@ -19,13 +19,13 @@ tags:
 - Yaratık [[Durik]]'i parçalıyor. Şerif'in ilk kurşunu yanlışlıkla Durik'in kafasına giriyor.
 - Kiara yaratığın bir kolunu kesiyor, ama kendisi -6'ya düşüyor. Rithia da yere düşüyor.
 - Yaratık elektriğe zayıf. Şerif [[Şerif|Arcane Blaster]]'ı ağzına dayayıp onu öldürüyor.
-- Ölen yaratık kafasız, çıplak, sarışın bir elf kadına dönüşüyor: kayıp druid **[[Efeyn]]**.
-- [[Barakas'ın Asası|Asanın]] pembe [[Dragonshard|Siberys kristali]] fırtınayı emip patlıyor ve parçaları grubun üzerine saplanıyor.
+- Ölen yaratık kafasız, çıplak, sarışın bir elf kadına dönüşüyor: kayıp druid **[[Effain]]**.
+- [[Barrakas'ın Asası|Asanın]] pembe [[Dragonshard|Siberys kristali]] fırtınayı emip patlıyor ve parçaları grubun üzerine saplanıyor.
 - Ashara yerden yeşil, sarmaşıklı bir [[Wand of Lesser Vigor|değnek]] alıyor.
 
 ## Ertesi gün
 - Şerif kendi kurşununu gizlemek için Durik'in kafasını ateşe atıyor.
-- Ashara, Efeyn'in kulübesinde yarım kalmış bir Druidce **tehlike** rünü buluyor.
-- Anıt açılıyor. Gnoll kafatasının yerinde yalnızca siyah, yanmış kemik külü var. Ashara'nın teorisine göre asa gnoll'un varlığını taşıyordu ve Efeyn'i ele geçirdi.
+- Ashara, Effain'in kulübesinde yarım kalmış bir Druidce **tehlike** rünü buluyor.
+- Anıt açılıyor. Gnoll kafatasının yerinde yalnızca siyah, yanmış kemik külü var. Ashara'nın teorisine göre asa gnoll'un varlığını taşıyordu ve Effain'i ele geçirdi.
 - [[Rithia]] tek başına [[Eski Maden]]'e iniyor. Fısıltılar arasında Quickstone bedenini sarıyor. Maden girişindeki vagonda uyanıyor, ipi kopmuş halde. Kimseye söylemiyor.
 - Şerif'in ofisindeki [[Altın Gramofon]]: kurye [[Tibi]], ağız şeklinde başlı bir [[Altın Anahtar]] getiriyor.

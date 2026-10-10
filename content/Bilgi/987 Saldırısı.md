@@ -7,9 +7,9 @@ tags:
 
 # 987 Saldırısı
 
-987 yılında [[Dougner Barakas]] önderliğinde gnoll, ogre ve trollerden oluşan bir güç, Breland madencilerinin 970'te kurduğu Graystone'u yok etti. Bir fırtına eşliğinde geldiler.
+987 yılında [[Dagnyr Barrakas]] önderliğinde gnoll, ogre ve trollerden oluşan bir güç, Breland madencilerinin 970'te kurduğu Graystone'u yok etti. Bir fırtına eşliğinde geldiler.
 
-**Sağ kalan yedi kişi:** [[Leofrick]]†, [[Octavio]]†, [[Durik]]†, [[Efeyn]]†, [[Gareth Brimmstone]], [[Nero Vadalis]], [[Andra Intas]]
+**Sağ kalan yedi kişi:** [[Leofrick]]†, [[Octavio]]†, [[Durik]]†, [[Effain]]†, [[Gareth Brimmstone]], [[Nero Vadalis]], [[Andra Intas]]
 
 Bkz. [[Graystone Şehitleri Anıtı]].
 

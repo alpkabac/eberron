@@ -26,3 +26,5 @@ Droaam'daki adı **Cazhaak Six**. Sovereign Host'un karanlık karşılığı.
 
 
 > Kaynak: *Eberron Lore* belgesi.
+
+Bayramları: [[Aramha]] (Sypheros 17-19). Kobold'lar **The Fury**'ye tapar.

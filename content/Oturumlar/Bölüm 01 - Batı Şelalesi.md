@@ -14,7 +14,7 @@ Kahramanlar, [[House Orien]]'in yıldırım raylarında giden [[Batı Şelalesi 
 ### Vagondaki tanıdık yüzler
 - [[Gareth Brimmstone]]: [[Chanter Loncası]]'nın 200 yaşındaki huysuz cüce başı. Rithia'nın "taşın fısıltısını duyabildiğini" sezip ona madende iş teklif ediyor.
 - [[Hiradan]]: Mor ejderha pulu pelerinli yarı-ork kadın. Ashara pelerinin [[Gatekeepers]]'a ait olduğunu anlıyor.
-- [[Isti]]: [[Şerif]]'i sorularıyla darlayan Sharn Inquisitive muhabiri.
+- [[Isti Devir]]: [[Şerif]]'i sorularıyla darlayan Sharn Inquisitive muhabiri.
 - [[Daff d'Jorasco]]: Geveze ama iyi niyetli halfling doktor. Medusaların taşlaştırmasını "tıbbi merakla" sorunca Ashara'yı kızdırıyor.
 - [[Percival d'Orien]]: Genç kondüktör. Kınsız taşıdığı mor hançer [[Bayeşk]]'ten yapılmış ([[Bayeşk Hançer]]).
 - Ashara, [[Droaam]]'ın elçisi medusa rahibe [[Taşka]]'yı tanıyor. Oğlu [[Linear]] da Şerif'le daha önce tanışmış.

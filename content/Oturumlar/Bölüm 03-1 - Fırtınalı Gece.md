@@ -23,5 +23,5 @@ tags:
 
 ## Anıt
 - Ashara, [[Graystone Şehitleri Anıtı]]'nın içinde nekromansi büyülü bir **gnoll kafatası** buluyor. Anıttan ince siyah bir duman yükseliyor.
-- History zarı (21) ile [[987 Saldırısı]]nı hatırlıyor: Graystone'u 970'te Breland madencileri kurdu. 987'de [[Droaam]]'dan gelen gnoll, ogre ve trollerden oluşan bir güç yerleşimi yok etti. Saldırının lideri [[Dougner Barakas]] bir [[Daelkyr]] takipçisiydi.
+- History zarı (21) ile [[987 Saldırısı]]nı hatırlıyor: Graystone'u 970'te Breland madencileri kurdu. 987'de [[Droaam]]'dan gelen gnoll, ogre ve trollerden oluşan bir güç yerleşimi yok etti. Saldırının lideri [[Dagnyr Barrakas]] bir [[Daelkyr]] takipçisiydi.
 - Bulutsuz gökten yağmur başlıyor. Şerif fenerle sokağa iniyor.

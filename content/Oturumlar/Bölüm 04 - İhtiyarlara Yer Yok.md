@@ -13,7 +13,7 @@ tags:
 - [[Leofrick]] (ölü)
 - [[Octavio]] (ölü)
 - [[Durik]]
-- [[Efeyn]] (kayıp)
+- [[Effain]] (kayıp)
 - [[Gareth Brimmstone]]
 - [[Nero Vadalis]]
 - [[Andra Intas]]
@@ -31,8 +31,8 @@ Plan: hepsini [[Rithia]]'nın [[Crown]] konserine davet edip göz önünde tutma
 - Nero'nun uşağı [[Garvin]]. Tehdit edilince Nero "[[Üç Yüzlü Sikke]]"yi ima ediyor. Ceketi, piposu ve botları büyülü.
 
 ## Durik
-- [[Kiara]] ile [[Hagar]], [[Durik]]'i ziyaret ediyor. Durik 987'de [[Dougner Barakas|Barakas]]'ı kendisi öldürmüş ve kolunu bu dövüşte kaybetmiş.
-- Barakas'ın yıldırım saçan, fırtına çıkaran bir [[Barakas'ın Asası|asası]] vardı. Asayı [[Efeyn]] almış.
+- [[Kiara]] ile [[Hagar]], [[Durik]]'i ziyaret ediyor. Durik 987'de [[Dagnyr Barrakas|Barrakas]]'ı kendisi öldürmüş ve kolunu bu dövüşte kaybetmiş.
+- Barrakas'ın yıldırım saçan, fırtına çıkaran bir [[Barrakas'ın Asası|asası]] vardı. Asayı [[Effain]] almış.
 - Grup Durik'i sıkıştırınca Durik kılıcını çekiyor. Sonra evlatlığı [[Alvin]]'i Kiara'ya emanet ediyor ve "Droaam'lılara dikkat edin" diyor.
 
 ## Diğer

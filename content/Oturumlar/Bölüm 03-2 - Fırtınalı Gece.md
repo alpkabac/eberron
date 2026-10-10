@@ -19,4 +19,4 @@ tags:
 [[Cliff]], zift ve tüye bulanmış halde ata bağlı olarak geri geliyor. Atta, kopan vagona gönderilen dört muhafızın kesik kafaları var. Yanındaki notta Elfçe tek bir kelime yazıyor: "Sevgiler". Bunu yapan [[Gwyr the Nightingale|Nightingale]]. Başına 1500 altın ödül konmuş ([[Nightingale Çetesi]]). [[Kiara]] ipteki kokuyu ezberliyor.
 
 ## Rüyalar
-Ashara rüyasında sarışın, yeşil pelerinli bir elf kadın görüyor ([[Efeyn]]). Arkasında bir medusa silueti var ve şöyle diyor: "Bütün çocuklarımı severim… ama fırtına geliyor ve bu doğal olmayan bir fırtına."
+Ashara rüyasında sarışın, yeşil pelerinli bir elf kadın görüyor ([[Effain]]). Arkasında bir medusa silueti var ve şöyle diyor: "Bütün çocuklarımı severim… ama fırtına geliyor ve bu doğal olmayan bir fırtına."

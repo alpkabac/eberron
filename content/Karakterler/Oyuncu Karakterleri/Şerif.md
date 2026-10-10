@@ -35,3 +35,7 @@ aliases:
 - Yokluğunda [[Cliff]]'i vekil şerif, [[Sam Six Killer]]'ı onun yardımcısı yaptı.
 
 Irk: [[Warforged]]. Şeriflikteki selefi [[Constable]] bir yıl önce çözülmemiş bir cinayete kurban gitti.
+
+## Bölüm 12
+- Allip'in [[Kırık Fener|fenerini]] vurup kırdı ve Percival'ın ruhunu serbest bıraktı. Wisdom drain yedi, Ashara iyileştirdi.
+- Eski dostu [[Telenor]] sayesinde nekromansiyi teorik olarak biliyor.

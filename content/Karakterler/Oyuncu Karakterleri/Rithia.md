@@ -34,3 +34,9 @@ tags:
 - Daff'a 250 altınlık ameliyat borcu var (50'si ödendi).
 
 Irk: [[Tiefling]] (Venomous Demesne?).
+
+## Bölüm 12
+- Yeni feat **Lingering Song**: İlham müziği o çalmayı bıraktıktan sonra da 1 dakika sürüyor. Bir de **Inspire Competence** (+2 beceri) kullanabiliyor. Günde 8 bardik müzik hakkı var.
+- Allip'in hipnozunda uzun süre kaldı.
+- **[[Tilmarra Greensparrow]]**'u geçmişinden tanıyor.
+- Plan: Disguise Self ile kobold kılığına girip öncü olacak.

@@ -11,16 +11,19 @@ tags:
 |---|---|
 | 970 | Breland madencileri Graystone'u kuruyor |
 | 978 | [[Nero Vadalis]] Sharn'da "büyük vurgun" yapıyor |
-| 987 | [[987 Saldırısı]]. [[Durik]], [[Dougner Barakas]]'ı öldürüyor |
+| 987 | [[987 Saldırısı]]. [[Durik]], [[Dagnyr Barrakas]]'ı öldürüyor |
 | ~988-989 | [[Quickstone]] kuruluyor |
 | ~996 | [[Son Savaş]] bitiyor, Cyre yok oluyor ([[Mornland]]) |
 | Sypheros 1 | Tren saldırısı ([[Bölüm 01 - Batı Şelalesi]]) |
 | 1. gece | [[Leofrick]] öldürülüyor |
 | 2. gece | [[Octavio]] öldürülüyor, [[Cliff]] geri geliyor |
-| 3. gece | [[Durik]] ölüyor, [[Efeyn]] öldürülüyor |
+| 3. gece | [[Durik]] ölüyor, [[Effain]] öldürülüyor |
 | Sypheros 5 | [[Ardev]]'e gidiş, müze galası |
 | Sypheros 5-9 | [[Batı Sınırı Yolu]]'nda yolculuk |
 | Sypheros 9 | Quickstone'a dönüş, maden görevi |
 | Sypheros 10 | [[Hançerli Not]], Facet'e rapor, Taşka, Logan, Anvil. Rithia ameliyat oluyor ([[Bölüm 11 - Atlar ve Brocanlar]]) |
 | Sypheros 11 akşamı | Rithia uyanıyor, [[Gold Dragon Inn]] açılışı |
 | Sypheros 12 | [[Skomas Vadisi]]'ne yola çıkış, ilk gece hayalet atlar |
+| Sypheros 12-13 gecesi | Hayalet atlar, pusu kampı, Percival'ın Allip'i ([[Bölüm 12 - Biletler Lütfen]]) |
+| Sypheros 15 | [[Skomas Vadisi]]'ne varış, yarasa mağarası ve gizli giriş bulundu |
+| Sypheros 17-19 | [[Aramha]] bayramı (18: Gal Aramha) |

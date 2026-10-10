@@ -18,3 +18,6 @@ tags:
 
 ## Bölüm 11
 Seviye atladı ve biraz büyüdü. Ashara'ya önce [[Gatekeepers]] druidini, o yoksa [[Taşka]]'yı bulmasını önerdi.
+
+## Bölüm 12
+Kobold'ları gizlice takip edip tepedeki gizli girişi buldu ve "Graska" adını duydu. Sabırsızlanıp yarasalara asit püskürttü, şelale mağarasına daldı ve merdivenleri keşfetti. Grubun tek Draconic konuşanı.

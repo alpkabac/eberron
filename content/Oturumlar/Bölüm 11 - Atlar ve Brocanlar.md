@@ -6,7 +6,7 @@ tags:
 
 # Bölüm 11 - Atlar ve Brocanlar
 
-> [YouTube'da izle](https://www.youtube.com/watch?v=DxCFpq2fYSo) · Önceki: [[Bölüm 10 - Mühürlü Kaderim]]
+> [YouTube'da izle](https://www.youtube.com/watch?v=DxCFpq2fYSo) · Önceki: [[Bölüm 10 - Mühürlü Kaderim]] · Sonraki: [[Bölüm 12 - Biletler Lütfen]]
 
 ## Sabah (Sypheros 10)
 - [[Şerif]] kapısındaki [[Hançerli Not]]'u inceliyor. Hançer sıradan ve ucu paslı. Notun sözü, Breland'ın efsanevi halk figürü [[Dilenci Dane]]'ye ait. Son bir yıldır bu isim, krallık karşıtı [[Özgürlük Kılıçları]]'nın sesi olarak kullanılıyor. Not bir propaganda da olabilir, doğrudan bir tehdit de.

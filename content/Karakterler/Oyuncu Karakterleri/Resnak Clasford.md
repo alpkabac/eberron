@@ -28,3 +28,6 @@ aliases:
 - Nöbetteyken gözleri oyulmuş bir [[Daff d'Jorasco|Daff]] görüntüsü ve hayalet dinozoru gibi parlayan **beş hayalet at** gördü.
 
 Irk: [[Halfling]] ([[Talenta]]).
+
+## Bölüm 12
+Hayalet atları buldu, Chaos Bolt'la iki zombi indirdi ve Mage Armor kullandı. Kendini dönüştüremiyor; Disguise Self için parşömene ihtiyacı var.
