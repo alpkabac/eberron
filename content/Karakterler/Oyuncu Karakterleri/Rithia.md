@@ -40,3 +40,6 @@ Irk: [[Tiefling]] (Venomous Demesne?).
 - Allip'in hipnozunda uzun süre kaldı.
 - **[[Tilmarra Greensparrow]]**'u geçmişinden tanıyor.
 - Plan: Disguise Self ile kobold kılığına girip öncü olacak.
+
+## Bölüm 13
+Devriyeyi takip ederken yakalandı ("Erikli" adıyla). Hagar sayesinde kaçtı. Korik kılığında sızmaya çalıştı, ama dokunulunca illüzyon bozuldu. [[Kalidor]] ona bir [[Boomstick]] verdi.

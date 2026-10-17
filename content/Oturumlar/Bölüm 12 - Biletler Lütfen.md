@@ -6,7 +6,7 @@ tags:
 
 # Bölüm 12 - Biletler Lütfen
 
-> [YouTube'da izle](https://www.youtube.com/watch?v=UAyuZQu0ldA) · Önceki: [[Bölüm 11 - Atlar ve Brocanlar]]
+> [YouTube'da izle](https://www.youtube.com/watch?v=UAyuZQu0ldA) · Önceki: [[Bölüm 11 - Atlar ve Brocanlar]] · Sonraki: [[Bölüm 13 - İç Savaş]]
 
 ## Hayalet atlar (Sypheros 12-13 gecesi)
 - [[Resnak Clasford|Resnak]]'ın çağrısıyla grup uyanıyor. Gözleri oyulmuş [[Daff d'Jorasco|Daff]] görüntüsü kaybolmuş, beş soluk yeşil hayalet at bekliyor.

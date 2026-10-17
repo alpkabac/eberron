@@ -19,3 +19,5 @@ tags:
 Percival'ın ruhu işkence görmüş bir **[[Allip]]**'e dönüşmüş, bir [[Kırık Fener|fenere]] bağlanmıştı. Skomas yolunda, bir pusu kampında ortaya çıktı: "Biletler lütfen!", "Huzur verin..." Şerif feneri kırınca huzura kavuştu.
 - Kim yaptı? Nekromansi. Kobold'ların intikamı olabilir, [[Gargoyle Kadın]]'ın işi de.
 - Gazeteye göre makinistti ve tren saldırısında ölen **sekiz kişiden** biriydi.
+
+Hançer, babası [[Edmund]]'un Komazdal'dan çaldığı bir emanetti ([[Bölüm 13 - İç Savaş]]).

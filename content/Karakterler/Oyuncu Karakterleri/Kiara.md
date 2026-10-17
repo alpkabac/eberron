@@ -37,3 +37,6 @@ Irk: [[Shifter]]. Ülkesi Cyre ([[Mornland]]).
 
 ## Bölüm 12
 Pusu kampındaki okları [[Komazdal Klanı|Komazdal]] oklarına benzetti ve iki tanesini aldı. Allip'ten ağır wisdom drain yedi (7'ye düştü), Ashara iyileştirdi. [[Bayeşk Balta]] Allip'e işledi.
+
+## Bölüm 13
+Barbar kobold'u öldürdü. Kanayan bir yara aldı ve Daff'ın iksirini içti (zihin okuma). [[Bayeşk Balta]]'nın Aberration Bane olduğu ortaya çıktı.

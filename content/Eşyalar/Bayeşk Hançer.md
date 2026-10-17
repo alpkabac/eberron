@@ -16,3 +16,6 @@ tags:
 - Hançer, Percival'a babası [[Edmund]]'dan kalan bir **aile yadigarıydı**.
 - Percival normalde onu gururla taşırdı, ama [[Khaar'paal Klanı|Khaar'paal]] kobold'larının yanında saklamaya çalışırdı.
 - Teori: Kehanete göre hançer "dağların koboldları"na ait. Kobold'lar kendi emanetlerini geri almış olabilir. Ama [[Gargoyle Kadın]] ne alaka?
+
+## Asıl sahibi (Bölüm 13)
+Hançer [[Komazdal Klanı]]'nın **rahibine** aitti. Otuz kırk yıl önce [[Edmund]] bir [[Aramha]] gecesi çalıp kaçtı. Kehanetteki "dağların koboldları" Komazdal. Hançer şimdi büyük ihtimalle [[Graska]]'da; Komazdal onu "bizden çalındı, geri aldık" diye görüyor.

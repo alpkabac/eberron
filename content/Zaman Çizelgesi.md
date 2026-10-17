@@ -9,6 +9,7 @@ tags:
 
 | Tarih | Olay |
 |---|---|
+| ~958-968 | [[Edmund]], Komazdal rahibinin bayeşk hançerini çalıyor |
 | 970 | Breland madencileri Graystone'u kuruyor |
 | 978 | [[Nero Vadalis]] Sharn'da "büyük vurgun" yapıyor |
 | 987 | [[987 Saldırısı]]. [[Durik]], [[Dagnyr Barrakas]]'ı öldürüyor |
@@ -27,3 +28,4 @@ tags:
 | Sypheros 12-13 gecesi | Hayalet atlar, pusu kampı, Percival'ın Allip'i ([[Bölüm 12 - Biletler Lütfen]]) |
 | Sypheros 15 | [[Skomas Vadisi]]'ne varış, yarasa mağarası ve gizli giriş bulundu |
 | Sypheros 17-19 | [[Aramha]] bayramı (18: Gal Aramha) |
+| Sypheros 15 gecesi | Komazdal'a sızma, Korik, dövüş, Kalidor ([[Bölüm 13 - İç Savaş]]) |

@@ -29,3 +29,6 @@ Irk: [[Medusa]]. Anavatanı [[Cazhaak Draal]].
 - Gazeteye göre [[Kont Thavius ir'Blis]], Droaam ilişkilerini güçlendirmek için onu Quickstone'un yeni druidi olarak atamış.
 - Hayalet atlarla konuştu, bir [[Zorn]] çağırdı, survival ile yolu bir gün kısalttı ve Restoration ile grubu iyileştirdi.
 - Plan sahibi: [[Aramha]]'yı bekleyip kobold kılığıyla ve şelale girişinden sızmak.
+
+## Bölüm 13
+Yarasayla konuştu, Entangle yaptı ve toprak elementalleri çağırdı. Sunaktan ham bayeşk ve Edmund'un notunu aldı. [[Kemik Düdük]] onda.

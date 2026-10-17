@@ -21,3 +21,6 @@ Seviye atladı ve biraz büyüdü. Ashara'ya önce [[Gatekeepers]] druidini, o y
 
 ## Bölüm 12
 Kobold'ları gizlice takip edip tepedeki gizli girişi buldu ve "Graska" adını duydu. Sabırsızlanıp yarasalara asit püskürttü, şelale mağarasına daldı ve merdivenleri keşfetti. Grubun tek Draconic konuşanı.
+
+## Bölüm 13
+Yarasa yakaladı. Rithia'yı kurtarmak için bir kobold'a asit püskürtüp ona "yakında bir ejderha var" diye gözdağı verdi. Kobold'lar ejderhalardan korkuyor.

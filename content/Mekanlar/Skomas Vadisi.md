@@ -19,3 +19,10 @@ Graywall Dağları'nın güneyinde. [[Komazdal Klanı]]'nın dev yarasa yuvalar�
 - 50-60 ft'lik bir şelale ve göleti var. Şelalenin üstündeki oyuklardan yüzlerce yarasa girip çıkıyor. **Şelalenin arkasında yukarı çıkan oyma merdivenler** var.
 - Tepede, mağaraların yanında kobold'ların kullandığı **gizli bir giriş** var.
 - Grubun gizli kampı, iki sıradağın birleştiği yerde, çalılarla örtülü.
+
+## Bölüm 13: İçerisi
+- **Şelale girişi:** Yarasa yuvaları ve ahırları, guano, kafesler, tasmalar. Korik'in yeri.
+- **Sunak odası:** Karalanmış "İlk Nefes" duvar resimleri.
+- **Kesik halat köprü:** Karşısında Variska'nın barikatı var (yaklaşık 3 metre).
+- **Merdivenli birleşme alanı:** Dövüşün olduğu yer, kemik mızrak tuzaklı.
+- **[[Kalidor]]'un atölyesi:** Barikatlı ve tuzaklı.

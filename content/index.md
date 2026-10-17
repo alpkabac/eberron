@@ -24,6 +24,7 @@ aliases:
 10. [[Bölüm 10 - Mühürlü Kaderim]]
 11. [[Bölüm 11 - Atlar ve Brocanlar]]
 12. [[Bölüm 12 - Biletler Lütfen]]
+13. [[Bölüm 13 - İç Savaş]]
 
 ## Grup
 | Karakter | Oyuncu | Özet |

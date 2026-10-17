@@ -31,3 +31,7 @@ Irk: [[Halfling]] ([[Talenta]]).
 
 ## Bölüm 12
 Hayalet atları buldu, Chaos Bolt'la iki zombi indirdi ve Mage Armor kullandı. Kendini dönüştüremiyor; Disguise Self için parşömene ihtiyacı var.
+
+## Bölüm 13
+- Geçmişini hatırladı: [[Üç Gözlü Taş]] işaretli cübbeliler onu kovalamıştı, o da bir Gezgin (The Traveler) tapınağına sığınıp [[Gezgin Tütsüsü]]'nü bulmuştu.
+- Grease ve Burning Hands ile merdivenleri ateşe verdi. Tütsü ile büyülerini yeniledi.

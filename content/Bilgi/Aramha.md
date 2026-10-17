@@ -14,3 +14,5 @@ tags:
 - **18 Sypheros**, **Gal Aramha**: Bayramın en büyük günü, "Wild Night".
 - Quickstone'daki [[Khaar'paal Klanı|Khaar'paal]] kobold'ları da kutlayacak.
 - **Soru:** Dark Six'e sırt çeviren [[Komazdal Klanı]] hâlâ kutluyor mu?
+
+**Cevap (Bölüm 13):** Komazdal artık Aramha'yı kutlamıyor ([[Korik]]). Bu bayramda kurban da yok; Graska'nın "kurban" lafı başka bir inançtan geliyor.

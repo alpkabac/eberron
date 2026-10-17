@@ -39,3 +39,6 @@ Irk: [[Warforged]]. Şeriflikteki selefi [[Constable]] bir yıl önce çözülme
 ## Bölüm 12
 - Allip'in [[Kırık Fener|fenerini]] vurup kırdı ve Percival'ın ruhunu serbest bıraktı. Wisdom drain yedi, Ashara iyileştirdi.
 - Eski dostu [[Telenor]] sayesinde nekromansiyi teorik olarak biliyor.
+
+## Bölüm 13
+Dövüşte en çok hasarı verenlerden biriydi. [[Kalidor]] onu tamir etti ("Seni nerede yaptılar?" "Sanayide.").

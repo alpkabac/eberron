@@ -17,3 +17,14 @@ tags:
 - Yuvaları [[Skomas Vadisi]]'nde: tepede gizli bir giriş, şelalenin arkasında yarasa mağarası ve merdivenler var.
 - "[[Graska]]" adında birine bağlılar.
 - [[Aramha]]'yı kutlayacaklar mı, bilinmiyor.
+
+## Bölüm 13: İç savaş
+Klan ikiye bölündü:
+- **[[Graska]] tarafı:** Gri Hanım'a, taşa tapıyor ([[Üç Gözlü Taş]]). Yarasalara [[Taş Tasmalar]] takıyor. Mucitlerin çoğu bu tarafta.
+- **[[Variska]] tarafı:** Yaklaşık 20 direnişçi. Ayrıca [[Kalidor]] ve [[Korik]].
+
+Ek bilgiler:
+- Klan yaklaşık 60 kişi. Bölüm 13'teki dövüşten sonra Graska'nın yaklaşık 15 adamı kaldı.
+- Artık [[Aramha]]'yı kutlamıyorlar.
+- [[Bayeşk Hançer]] eskiden klanın rahibine aitti.
+- Silahları: yarasa binicileri, okçular, büyücüler, rogue'lar, kemik mızrak tuzakları, alchemist's fire, "mega kobold" barbarlar.

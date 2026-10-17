@@ -62,3 +62,12 @@ tags:
 - [ ] [[Tilmarra Greensparrow]]'la [[Rithia]]'nın geçmişi.
 - [ ] [[Telenor]], Şerif'in "kadim dostu". Geçmişleri ne?
 - [ ] [[Aramha]] (17-19 Sypheros): Komazdal kutlayacak mı?
+
+## Bölüm 13'te eklenenler
+- [ ] **Gri Hanım** kim? [[Gargoyle Kadın]] mı? [[Orlask]]'la bağı ne?
+- [ ] [[Üç Gözlü Taş]] kültü: Resnak'ı doğuda kovalayan insanlarla aynı kült mü?
+- [ ] Graska tutsakları ne için kurban ediyor?
+- [ ] Tim ve Gillian, Edmund'un arkadaşları: hayattalar mı?
+- [ ] Hançer şimdi nerede? Graska'da mı?
+- [x] Komazdal Aramha'yı kutlamıyor.
+- [x] Hançerin asıl sahibi: Komazdal rahibi. Edmund çalmıştı.
