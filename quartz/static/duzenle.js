@@ -94,11 +94,16 @@
   function askPassword() {
     return new Promise((resolve) => {
       const m = modal("Düzenleme girişi")
-      const pw = el("input", { type: "password", autocomplete: "off" })
+      // type=password değil: tarayıcı/şifre yöneticisi bazı kullanıcılarda yazmayı engelliyor
+      const pw = el("input", { type: "text", autocomplete: "off", spellcheck: false, autocapitalize: "off" })
       const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "" })
       const msg = el("p", { className: "dz-msg" })
       const ok = el("button", { textContent: "Giriş", className: "dz-primary" })
       const go = async () => {
+        if (!pw.value.trim()) {
+          msg.textContent = "Önce üstteki kutuya grup şifresini yaz."
+          return
+        }
         ok.disabled = true
         msg.textContent = "Kontrol ediliyor…"
         try {
