@@ -7,6 +7,11 @@
   const base = new URL(".", document.currentScript.src)
   const TOKEN_KEY = "eberron-duzenle-anahtar"
   const NAME_KEY = "eberron-duzenle-isim"
+  // Web kayıtları [skip ci] ile gider; site toplu derlenene kadar (12 saat / 20 değişiklik) düzenleyen kişi
+  // kendi halini bu tarayıcıda görür (yerel kopya, build.json tarihi geçince silinir)
+  const LOCAL_PREFIX = "eberron-yerel:"
+  const MARKED = "https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"
+  const root = new URL("..", base)
 
   const store = {
     get: (k) => {
@@ -131,7 +136,7 @@
     })
   }
 
-  async function openEditor(filePath, title) {
+  async function openEditor(slug, filePath, title) {
     if (!token && !(await askPassword())) return
     const repoPath = `content/${filePath}`
     const m = modal(`Düzenle: ${title}`)
@@ -147,24 +152,26 @@
     const area = el("textarea", { value: new TextDecoder().decode(b64ToBytes(file.content)), spellcheck: false })
     const save = el("button", { textContent: "Kaydet", className: "dz-primary" })
     const cancel = el("button", { textContent: "İptal", onclick: m.close })
-    msg.textContent = "Bağlantı için [[Sayfa Adı]] yaz. Kaydedince site 1-2 dakikada güncellenir."
+    msg.textContent = "Bağlantı için [[Sayfa Adı]] yaz. Sen hemen görürsün, diğerleri en geç 12 saat içinde."
     save.onclick = async () => {
       save.disabled = true
       msg.textContent = "Kaydediliyor…"
       const who = store.get(NAME_KEY) || "isimsiz"
       try {
-        await gh(repoPath, {
+        const res = await gh(repoPath, {
           method: "PUT",
           body: JSON.stringify({
-            message: `Web düzenlemesi: ${title} (${who})`,
+            message: `Web düzenlemesi: ${title} (${who}) [skip ci]`,
             content: bytesToB64(new TextEncoder().encode(area.value)),
             sha: file.sha,
             branch: BRANCH,
           }),
         })
+        store.set(LOCAL_PREFIX + slug, JSON.stringify({ md: area.value, date: Date.parse(res.commit.committer.date) }))
+        await applyLocal(slug)
         m.box.replaceChildren(
           el("h3", { textContent: "Kaydedildi!" }),
-          el("p", { textContent: "Site 1-2 dakika içinde güncellenecek. Sonra sayfayı yenile." }),
+          el("p", { textContent: "Yeni hali sen şimdi görüyorsun. Site herkes için en geç 12 saat içinde güncellenecek." }),
           el("div", { className: "dz-row" }, el("button", { textContent: "Tamam", className: "dz-primary", onclick: m.close })),
         )
       } catch (e) {
@@ -176,14 +183,68 @@
     area.focus()
   }
 
+  let buildDate = null
+  async function deployedAt() {
+    buildDate ??= await fetch(new URL("build.json", base), { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : {}))
+      .then((j) => Date.parse(j.date) || 0)
+      .catch(() => 0)
+    return buildDate
+  }
+
+  let markedReady = null
+  const loadMarked = () =>
+    (markedReady ??= new Promise((resolve, reject) =>
+      document.head.append(el("script", { src: MARKED, onload: resolve, onerror: reject })),
+    ))
+
+  function linkTarget(name) {
+    const n = name.trim().toLowerCase()
+    for (const [slug, e] of Object.entries(index)) {
+      const file = e.filePath?.replace(/\.md$/, "").split("/").pop()
+      if (e.title?.toLowerCase() === n || file?.toLowerCase() === n) return slug
+    }
+    return null
+  }
+
+  function render(md) {
+    const body = md
+      .replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "")
+      .replace(/(!?)\[\[([^\]|#]+)(#[^\]|]*)?(?:\|([^\]]+))?\]\]/g, (_, embed, name, _anchor, label) => {
+        const slug = linkTarget(name)
+        if (embed || !slug) return label ?? name
+        return `<a class="internal" href="${new URL(slug, root)}">${label ?? name}</a>`
+      })
+    return window.marked.parse(body, { breaks: true, gfm: true })
+  }
+
+  async function applyLocal(slug) {
+    const key = LOCAL_PREFIX + slug
+    let saved = null
+    try {
+      saved = JSON.parse(store.get(key))
+    } catch {}
+    if (!saved) return
+    if ((await deployedAt()) >= saved.date) return store.del(key)
+    const target = document.querySelector("article .markdown-preview-view") ?? document.querySelector("article")
+    if (!target || document.body.dataset.slug !== slug) return
+    await loadMarked()
+    target.innerHTML = render(saved.md)
+    target.prepend(
+      el("p", { className: "dz-local", textContent: "Bu sayfanın senin düzenlediğin hali; diğerleri en geç 12 saat içinde görecek." }),
+    )
+  }
+
   async function setup() {
     if (!index) index = await fetch(new URL("contentIndex.json", base)).then((r) => r.json())
     document.querySelector(".dz-edit")?.remove()
-    const entry = index[document.body.dataset.slug]
+    const slug = document.body.dataset.slug
+    const entry = index[slug]
     if (!entry?.filePath?.endsWith(".md")) return
     const btn = el("button", { className: "dz-edit", textContent: "✎ Düzenle", title: "Bu sayfayı düzenle" })
-    btn.onclick = () => openEditor(entry.filePath, entry.title)
+    btn.onclick = () => openEditor(slug, entry.filePath, entry.title)
     document.body.append(btn)
+    await applyLocal(slug)
   }
 
   document.head.append(
@@ -192,6 +253,7 @@
       {},
       `.dz-edit{position:fixed;right:1.2rem;bottom:1.2rem;z-index:900;padding:.5rem .9rem;border-radius:999px;border:1px solid var(--lightgray);background:var(--light);color:var(--secondary);font:inherit;cursor:pointer;box-shadow:0 2px 8px #0003}
 .dz-edit:hover{background:var(--highlight)}
+.dz-local{padding:.5rem .8rem;border-left:3px solid var(--secondary);background:var(--highlight);font-size:.9rem}
 .dz-overlay{position:fixed;inset:0;z-index:1000;background:#0008;display:flex;align-items:center;justify-content:center;padding:1rem}
 .dz-box{background:var(--light);color:var(--dark);border:1px solid var(--lightgray);border-radius:8px;padding:1rem 1.2rem;width:min(900px,100%);max-height:100%;display:flex;flex-direction:column;gap:.6rem;box-sizing:border-box}
 .dz-box h3{margin:0}

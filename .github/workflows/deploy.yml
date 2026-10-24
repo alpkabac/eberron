@@ -4,19 +4,48 @@ on:
   push:
     branches:
       - v5
+  # Web düzenlemeleri [skip ci] ile gelir; 12 saat dolunca ya da 20 değişiklik birikince yayınla
+  schedule:
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
+  deployments: read
 
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      needed: ${{ steps.check.outputs.needed }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          needed=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            needed=false
+            repo="${{ github.repository }}"; sha="${{ github.sha }}"
+            read -r last_sha last_at < <(gh api "repos/$repo/deployments?environment=github-pages&per_page=1" -q '.[0] | "\(.sha) \(.created_at)"')
+            if [ "$last_sha" != "$sha" ]; then
+              count=$(gh api "repos/$repo/compare/$last_sha...$sha" -q .total_commits)
+              age=$(( $(date +%s) - $(date -d "$last_at" +%s) ))
+              echo "Yayinlanmamis degisiklik: $count, son yayin: $((age / 3600)) saat once"
+              if [ "$count" -ge 20 ] || [ "$age" -ge 43200 ]; then needed=true; fi
+            fi
+          fi
+          echo "needed=$needed" >> "$GITHUB_OUTPUT"
+
   build:
+    needs: check
+    if: needs.check.outputs.needed == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -45,6 +74,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Record build commit date
+        run: echo "{\"date\":\"$(git log -1 --format=%cI)\"}" > public/static/build.json
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
