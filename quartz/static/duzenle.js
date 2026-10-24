@@ -118,7 +118,9 @@
         }
       }
       ok.onclick = go
-      pw.onkeydown = (e) => e.key === "Enter" && go()
+      pw.onkeydown = (e) => {
+        if (e.key === "Enter") go() // false döndürmemeli: diğer tuşları iptal eder
+      }
       m.box.append(
         el("label", {}, "Grup şifresi", pw),
         el("label", {}, "Adın (değişiklik geçmişinde görünür)", name),
