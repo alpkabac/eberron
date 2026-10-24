@@ -4,7 +4,7 @@ echo Eberron notlari yayinlaniyor...
 cd /d "%~dp0"
 node senkron.mjs
 if errorlevel 1 goto hata
-git pull -q --rebase origin v5
+git pull -q --rebase --autostash origin v5
 if errorlevel 1 goto hata
 robocopy "C:\Users\Oktay\Documents\Eberron\Eberron" "content" /MIR /XD .obsidian .trash /XF Welcome.md /NFL /NDL /NJH /NJS /NP >nul
 move /Y "content\00 Kampanya Ana Sayfa.md" "content\index.md" >nul
