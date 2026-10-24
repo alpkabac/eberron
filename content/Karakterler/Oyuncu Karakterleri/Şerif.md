@@ -9,7 +9,7 @@ aliases:
 
 # Şerif
 
-**Oyuncu:** Oktay· **Irk:** Warforged · **Görev:** [[Quickstone]] şerifi
+**Oyuncu:** Oktay Alp· **Irk:** Warforged · **Görev:** [[Quickstone]] şerifi
 
 ## Genel
 - Tüfekli, iki tabancalı warforged. Blunderbuss ve elektrik vuran bir **Arcane Blaster** kullanıyor.
