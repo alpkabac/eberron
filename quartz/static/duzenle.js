@@ -101,7 +101,6 @@
       const m = modal("Düzenleme girişi")
       // type=password değil: tarayıcı/şifre yöneticisi bazı kullanıcılarda yazmayı engelliyor
       const pw = el("input", { type: "text", autocomplete: "off", spellcheck: false, autocapitalize: "off" })
-      const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "" })
       const msg = el("p", { className: "dz-msg" })
       const ok = el("button", { textContent: "Giriş", className: "dz-primary" })
       const go = async () => {
@@ -114,7 +113,8 @@
         try {
           token = await decryptToken(fold(pw.value)).catch(() => decryptToken(pw.value))
           store.set(TOKEN_KEY, token)
-          store.set(NAME_KEY, name.value.trim())
+          // şifre yanlışlıkla isim olarak kaydedildiyse geçmişe sızmasın
+          if (fold(store.get(NAME_KEY) ?? "") === fold(pw.value)) store.del(NAME_KEY)
           m.close()
           resolve(true)
         } catch (e) {
@@ -128,7 +128,6 @@
       }
       m.box.append(
         el("label", {}, "Grup şifresi", pw),
-        el("label", {}, "Adın (değişiklik geçmişinde görünür)", name),
         msg,
         el("div", { className: "dz-row" }, ok),
       )
@@ -150,13 +149,15 @@
       return
     }
     const area = el("textarea", { value: new TextDecoder().decode(b64ToBytes(file.content)), spellcheck: false })
+    const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "", placeholder: "örn. Oktay" })
     const save = el("button", { textContent: "Kaydet", className: "dz-primary" })
     const cancel = el("button", { textContent: "İptal", onclick: m.close })
     msg.textContent = "Bağlantı için [[Sayfa Adı]] yaz. Sen hemen görürsün, diğerleri en geç 12 saat içinde."
     save.onclick = async () => {
       save.disabled = true
       msg.textContent = "Kaydediliyor…"
-      const who = store.get(NAME_KEY) || "isimsiz"
+      const who = name.value.trim() || "isimsiz"
+      store.set(NAME_KEY, name.value.trim())
       try {
         const res = await gh(repoPath, {
           method: "PUT",
@@ -179,7 +180,11 @@
         save.disabled = false
       }
     }
-    m.box.append(area, el("div", { className: "dz-row" }, cancel, save))
+    m.box.append(
+      el("label", {}, "Adın (değişiklik geçmişinde herkese görünür — şifre yazma!)", name),
+      area,
+      el("div", { className: "dz-row" }, cancel, save),
+    )
     area.focus()
   }
 

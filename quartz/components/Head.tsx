@@ -5,6 +5,9 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 
+// duzenle.js her derlemede yeni adres alsın, tarayıcı eski sürümü önbellekten çalıştırmasın
+const buildId = Date.now()
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -90,7 +93,7 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
-        <script src={joinSegments(baseDir, "static/duzenle.js")} defer></script>
+        <script src={joinSegments(baseDir, `static/duzenle.js?v=${buildId}`)} defer></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
