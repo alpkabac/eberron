@@ -69,6 +69,7 @@
   async function gh(path, opts = {}) {
     const url = API + path.split("/").map(encodeURIComponent).join("/")
     const res = await fetch(opts.method ? url : `${url}?ref=${BRANCH}`, {
+      cache: "no-store", // yoksa tarayıcı 60 sn eski metni verir, yeniden düzenleme eskiden başlar
       ...opts,
       headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" },
     })
@@ -148,7 +149,14 @@
       msg.textContent = e.message
       return
     }
-    const area = el("textarea", { value: new TextDecoder().decode(b64ToBytes(file.content)), spellcheck: false })
+    let text = new TextDecoder().decode(b64ToBytes(file.content))
+    // GitHub hâlâ son kaydımızdan önceki hali veriyorsa yerel hal geçerli
+    const local = readLocal(slug)
+    if (local?.prevSha === file.sha && local.sha) {
+      text = local.md
+      file.sha = local.sha
+    }
+    const area = el("textarea", { value: text, spellcheck: false })
     const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "", placeholder: "örn. Oktay" })
     const save = el("button", { textContent: "Kaydet", className: "dz-primary" })
     const cancel = el("button", { textContent: "İptal", onclick: m.close })
@@ -168,7 +176,16 @@
             branch: BRANCH,
           }),
         })
-        store.set(LOCAL_PREFIX + slug, JSON.stringify({ md: area.value, date: Date.parse(res.commit.committer.date) }))
+        store.set(
+          LOCAL_PREFIX + slug,
+          JSON.stringify({
+            md: area.value,
+            date: Date.parse(res.commit.committer.date),
+            sha: res.content.sha,
+            prevSha: file.sha,
+          }),
+        )
+        file.sha = res.content.sha
         await applyLocal(slug)
         m.box.replaceChildren(
           el("h3", { textContent: "Kaydedildi!" }),
@@ -223,14 +240,18 @@
     return window.marked.parse(body, { breaks: true, gfm: true })
   }
 
-  async function applyLocal(slug) {
-    const key = LOCAL_PREFIX + slug
-    let saved = null
+  function readLocal(slug) {
     try {
-      saved = JSON.parse(store.get(key))
-    } catch {}
+      return JSON.parse(store.get(LOCAL_PREFIX + slug))
+    } catch {
+      return null
+    }
+  }
+
+  async function applyLocal(slug) {
+    const saved = readLocal(slug)
     if (!saved) return
-    if ((await deployedAt()) >= saved.date) return store.del(key)
+    if ((await deployedAt()) >= saved.date) return store.del(LOCAL_PREFIX + slug)
     const target = document.querySelector("article .markdown-preview-view") ?? document.querySelector("article")
     if (!target || document.body.dataset.slug !== slug) return
     await loadMarked()
