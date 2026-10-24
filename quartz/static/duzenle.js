@@ -78,7 +78,7 @@
       token = null
       throw new Error("Anahtar geçersiz ya da süresi dolmuş. Oktay'a haber ver.")
     }
-    if (res.status === 409) throw new Error("Bu sayfa sen düzenlerken başkası tarafından değiştirildi. Kapatıp tekrar aç.")
+    if (res.status === 409) throw Object.assign(new Error("Sayfa bu arada değişti."), { conflict: true })
     if (!res.ok) throw new Error(`GitHub hatası (${res.status}).`)
     return res.json()
   }
@@ -149,19 +149,28 @@
       msg.textContent = e.message
       return
     }
-    let text = new TextDecoder().decode(b64ToBytes(file.content))
-    // GitHub hâlâ son kaydımızdan önceki hali veriyorsa yerel hal geçerli
+    let text = decodeFile(file)
     const local = readLocal(slug)
     if (local?.prevSha === file.sha && local.sha) {
+      // GitHub hâlâ son kaydımızdan önceki hali veriyor: yerel hal geçerli
       text = local.md
       file.sha = local.sha
+    } else if (local && local.sha !== file.sha) {
+      // başkası bizden sonra düzenlemiş: sayfada artık onun hali görünsün
+      store.set(LOCAL_PREFIX + slug, JSON.stringify({ ...local, md: text, sha: file.sha, prevSha: null }))
+      applyLocal(slug)
     }
+    let baseText = text
     const area = el("textarea", { value: text, spellcheck: false })
     const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "", placeholder: "örn. Oktay" })
     const save = el("button", { textContent: "Kaydet", className: "dz-primary" })
     const cancel = el("button", { textContent: "İptal", onclick: m.close })
     msg.textContent = "Bağlantı için [[Sayfa Adı]] yaz. Sen hemen görürsün, diğerleri en geç 12 saat içinde."
     save.onclick = async () => {
+      if (area.value.includes(CONFLICT_START)) {
+        msg.textContent = "Önce <<<<<<< ve >>>>>>> işaretli kısımları düzelt, işaretleri sil."
+        return
+      }
       save.disabled = true
       msg.textContent = "Kaydediliyor…"
       const who = name.value.trim() || "isimsiz"
@@ -193,8 +202,22 @@
           el("div", { className: "dz-row" }, el("button", { textContent: "Tamam", className: "dz-primary", onclick: m.close })),
         )
       } catch (e) {
-        msg.textContent = e.message
         save.disabled = false
+        if (!e.conflict) return void (msg.textContent = e.message)
+        // Sen düzenlerken başkası kaydetmiş: iki değişikliği birleştir, kaydetmeden önce göster
+        try {
+          const latest = await gh(repoPath)
+          const theirs = decodeFile(latest)
+          const merged = merge3(area.value, baseText, theirs)
+          area.value = merged.text
+          baseText = theirs
+          file.sha = latest.sha
+          msg.textContent = merged.conflict
+            ? "Sen düzenlerken başkası da aynı yerleri değiştirdi. <<<<<<< Senin ile >>>>>>> Diğeri arasından doğru olanı bırak, işaretleri sil, sonra Kaydet."
+            : "Sen düzenlerken başkası da bu sayfayı değiştirdi. İkinizin değişikliği birleştirildi; kontrol edip tekrar Kaydet'e bas."
+        } catch (e2) {
+          msg.textContent = e2.message
+        }
       }
     }
     m.box.append(
@@ -238,6 +261,51 @@
         return `<a class="internal" href="${new URL(slug, root)}">${label ?? name}</a>`
       })
     return window.marked.parse(body, { breaks: true, gfm: true })
+  }
+
+  const decodeFile = (file) => new TextDecoder().decode(b64ToBytes(file.content)).replace(/\r\n/g, "\n")
+
+  // Satır bazlı üç yönlü birleştirme (diff3): taban o, bizimki a, onlarınki b
+  const CONFLICT_START = "<<<<<<< Senin"
+  function lcsMap(o, x) {
+    const n = o.length,
+      m = x.length
+    const dp = Array.from({ length: n + 1 }, () => new Int32Array(m + 1))
+    for (let i = n - 1; i >= 0; i--)
+      for (let j = m - 1; j >= 0; j--)
+        dp[i][j] = o[i] === x[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1])
+    const map = new Map()
+    for (let i = 0, j = 0; i < n && j < m; ) {
+      if (o[i] === x[j]) map.set(i++, j++)
+      else if (dp[i + 1][j] >= dp[i][j + 1]) i++
+      else j++
+    }
+    return map
+  }
+  function merge3(aText, oText, bText) {
+    const [a, o, b] = [aText, oText, bText].map((s) => s.replace(/\r\n/g, "\n").split("\n"))
+    const ma = lcsMap(o, a),
+      mb = lcsMap(o, b)
+    const same = (x, y) => x.length === y.length && x.every((v, k) => v === y[k])
+    const out = []
+    let conflict = false
+    for (let io = 0, ia = 0, ib = 0; ; ) {
+      let i = io
+      while (i < o.length && !(ma.has(i) && mb.has(i))) i++
+      const ea = i < o.length ? ma.get(i) : a.length
+      const eb = i < o.length ? mb.get(i) : b.length
+      const [O, A, B] = [o.slice(io, i), a.slice(ia, ea), b.slice(ib, eb)]
+      if (same(A, O)) out.push(...B)
+      else if (same(B, O) || same(A, B)) out.push(...A)
+      else {
+        conflict = true
+        out.push(CONFLICT_START, ...A, "=======", ...B, ">>>>>>> Diğeri")
+      }
+      if (i >= o.length) break
+      out.push(o[i])
+      ;[io, ia, ib] = [i + 1, ea + 1, eb + 1]
+    }
+    return { text: out.join("\n"), conflict }
   }
 
   function readLocal(slug) {
