@@ -28,3 +28,9 @@ Ek bilgiler:
 - Artık [[Aramha]]'yı kutlamıyorlar.
 - [[Bayeşk Hançer]] eskiden klanın rahibine aitti.
 - Silahları: yarasa binicileri, okçular, büyücüler, rogue'lar, kemik mızrak tuzakları, alchemist's fire, "mega kobold" barbarlar.
+
+## Bölüm 14
+- Graska'nın tarafındaki kobold'ların derilerinde **taşlaşmış lekeler** var; bu onlara ek zırh sağlıyor.
+- Ölenler: Şaman [[Krak]], komutan [[Grila]], ocaktaki mucitler, yarasa salonundaki okçular.
+- [[Mira]] kurtarıldı.
+- Variska'nın adamları tutsakları kurtarmaya gitti.

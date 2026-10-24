@@ -40,3 +40,8 @@ Pusu kampındaki okları [[Komazdal Klanı|Komazdal]] oklarına benzetti ve iki 
 
 ## Bölüm 13
 Barbar kobold'u öldürdü. Kanayan bir yara aldı ve Daff'ın iksirini içti (zihin okuma). [[Bayeşk Balta]]'nın Aberration Bane olduğu ortaya çıktı.
+
+## Bölüm 14
+- **Bir gözünü kaybetti.** 30 ft yüksekten bir dev yarasanın üstüne atladı ve yarasa onu pençeleyip ısırdı. Kalıcı olarak Spot ve menzilli saldırılarda -4 alıyor.
+- -7 HP'den Vitality iksiri ve Cure Light Wounds ile döndü. Hero Inspiration'ları bitti.
+- [[Mira]]'yı ailesine götürdü.

@@ -43,3 +43,6 @@ Irk: [[Tiefling]] (Venomous Demesne?).
 
 ## Bölüm 13
 Devriyeyi takip ederken yakalandı ("Erikli" adıyla). Hagar sayesinde kaçtı. Korik kılığında sızmaya çalıştı, ama dokunulunca illüzyon bozuldu. [[Kalidor]] ona bir [[Boomstick]] verdi.
+
+## Bölüm 14
+Jelatin küpü Ear-Piercing Scream ile öldürdü. Boomstick'i ocaktaki varilleri patlattı. Graska dövüşünde Inspire Courage çalıyor.

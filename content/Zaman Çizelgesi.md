@@ -29,3 +29,4 @@ tags:
 | Sypheros 15 | [[Skomas Vadisi]]'ne varış, yarasa mağarası ve gizli giriş bulundu |
 | Sypheros 17-19 | [[Aramha]] bayramı (18: Gal Aramha) |
 | Sypheros 15 gecesi | Komazdal'a sızma, Korik, dövüş, Kalidor ([[Bölüm 13 - İç Savaş]]) |
+| Sypheros 15-16 gecesi | Variska, jelatin küp, Krak'ın ölümü, ocak patlaması, Graska'yla dövüş ([[Bölüm 14 - Taş Tarikatı]]) |

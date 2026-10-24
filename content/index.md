@@ -25,6 +25,7 @@ aliases:
 11. [[Bölüm 11 - Atlar ve Brocanlar]]
 12. [[Bölüm 12 - Biletler Lütfen]]
 13. [[Bölüm 13 - İç Savaş]]
+14. [[Bölüm 14 - Taş Tarikatı]]
 
 ## Grup
 | Karakter | Oyuncu | Özet |

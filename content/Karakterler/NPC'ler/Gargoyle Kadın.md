@@ -16,3 +16,5 @@ tags:
 - [[Mühür Odası]]'nda ork heykelinin arkasındaki gargoyle eksikti. Aynı gargoyle olabilir mi?
 
 Komazdal'da "**Gri Hanım**" diye anılan, [[Graska]]'nın taptığı taştan kadın o olabilir ([[Bölüm 13 - İç Savaş]]).
+
+Bölüm 14'teki kil heykellerden biri bu kadının yüzünü taşıyordu. Variska'nın anlattığı **[[Diorit]]** bu kadın olabilir.

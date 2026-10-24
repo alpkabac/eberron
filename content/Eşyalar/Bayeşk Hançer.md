@@ -19,3 +19,6 @@ tags:
 
 ## Asıl sahibi (Bölüm 13)
 Hançer [[Komazdal Klanı]]'nın **rahibine** aitti. Otuz kırk yıl önce [[Edmund]] bir [[Aramha]] gecesi çalıp kaçtı. Kehanetteki "dağların koboldları" Komazdal. Hançer şimdi büyük ihtimalle [[Graska]]'da; Komazdal onu "bizden çalındı, geri aldık" diye görüyor.
+
+## Bölüm 14
+Graska'nın ritüel odasında, diz çökmüş yedinci kobold heykelinin elleri arasında duruyor. Mor parlıyor ve ışığı yansıtmıyor.

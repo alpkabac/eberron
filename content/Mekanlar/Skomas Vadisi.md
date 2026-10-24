@@ -26,3 +26,10 @@ Graywall Dağları'nın güneyinde. [[Komazdal Klanı]]'nın dev yarasa yuvalar�
 - **Kesik halat köprü:** Karşısında Variska'nın barikatı var (yaklaşık 3 metre).
 - **Merdivenli birleşme alanı:** Dövüşün olduğu yer, kemik mızrak tuzaklı.
 - **[[Kalidor]]'un atölyesi:** Barikatlı ve tuzaklı.
+
+## Bölüm 14
+- **Variska'nın sığınağı:** Eski Dhakaan salonu, duvarlarında oyuklar var.
+- **Gizli geçit:** Eski bir maden. Jelatin küp burada yaşıyordu.
+- **Yarasa salonu:** Krak'ın yeri. Duvarlarda ejderhalarla savaşan kobold resimleri var.
+- **Ocak:** Patlamayla yok oldu.
+- **Ritüel odası:** Kusursuz bir daire, Dhakaan rünleri, mor ışık, kil heykeller, hançerli yedinci heykel.

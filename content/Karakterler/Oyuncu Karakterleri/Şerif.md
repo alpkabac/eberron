@@ -42,3 +42,6 @@ Irk: [[Warforged]]. Şeriflikteki selefi [[Constable]] bir yıl önce çözülme
 
 ## Bölüm 13
 Dövüşte en çok hasarı verenlerden biriydi. [[Kalidor]] onu tamir etti ("Seni nerede yaptılar?" "Sanayide.").
+
+## Bölüm 14
+Grila'nın cesedini aradı. Dhakaan sikkesini okudu. Heat Metal yedi, tabancası tutukluk yaptı. Kazanın zincirini vurup ocağı havaya uçurdu. Variska'ya kendini **"Gone"** diye tanıttı.

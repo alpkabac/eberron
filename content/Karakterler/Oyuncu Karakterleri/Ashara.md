@@ -32,3 +32,6 @@ Irk: [[Medusa]]. Anavatanı [[Cazhaak Draal]].
 
 ## Bölüm 13
 Yarasayla konuştu, Entangle yaptı ve toprak elementalleri çağırdı. Sunaktan ham bayeşk ve Edmund'un notunu aldı. [[Kemik Düdük]] onda.
+
+## Bölüm 14
+Tuzak tespiti yaptı. Jelatin küpe Flaming Sphere attı. Dev yarasalara Animal Trance yaptı. Toka'yı çağırdı. Graska'ya Flaming Sphere attı. [[Kemik Kolye]]'yi aldı.

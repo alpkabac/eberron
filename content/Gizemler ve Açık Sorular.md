@@ -71,3 +71,11 @@ tags:
 - [ ] Hançer şimdi nerede? Graska'da mı?
 - [x] Komazdal Aramha'yı kutlamıyor.
 - [x] Hançerin asıl sahibi: Komazdal rahibi. Edmund çalmıştı.
+
+## Bölüm 14'te eklenenler
+- [ ] **[[Diorit]]** kim? Gargoyle Kadın mı? Orlask'ın hizmetkarı mı?
+- [ ] [[Resnak Clasford|Resnak]]'ın görüsü (lav nehri, kum fırtınası, kale) ve on oklu Magic Missile. İçinde ne var?
+- [ ] Altı diz çökmüş kobold heykeli: taşa çevrilmiş kobold'lar mı? İnsan yüzlü kil heykeller ne?
+- [ ] Graska hançerle ne yapmayı planlıyor? Aramha gecesi kurban mı?
+- [ ] Obsidyen kobold heykelciğinin anlamı ne?
+- [x] Kayıp çocuk Mira kurtarıldı.

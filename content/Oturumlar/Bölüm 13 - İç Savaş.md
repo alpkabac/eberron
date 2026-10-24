@@ -6,7 +6,7 @@ tags:
 
 # Bölüm 13 - İç Savaş
 
-> [YouTube'da izle](https://www.youtube.com/watch?v=yGHbEthorQE) · Önceki: [[Bölüm 12 - Biletler Lütfen]]
+> [YouTube'da izle](https://www.youtube.com/watch?v=yGHbEthorQE) · Önceki: [[Bölüm 12 - Biletler Lütfen]] · Sonraki: [[Bölüm 14 - Taş Tarikatı]]
 
 ## Gece keşfi (Sypheros 15)
 - [[Hagar]] bir yarasa yakalıyor. [[Ashara]] Speak with Animals ile konuşuyor: içeride çok kobold var, onlara "[[Korik]]" bakıyor, giriş şelaleden ve mağara çok büyük. İçeride trendeki gibi iri kobold'lar da var.

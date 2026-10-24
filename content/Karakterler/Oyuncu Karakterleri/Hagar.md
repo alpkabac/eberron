@@ -24,3 +24,6 @@ Kobold'ları gizlice takip edip tepedeki gizli girişi buldu ve "Graska" adını
 
 ## Bölüm 13
 Yarasa yakaladı. Rithia'yı kurtarmak için bir kobold'a asit püskürtüp ona "yakında bir ejderha var" diye gözdağı verdi. Kobold'lar ejderhalardan korkuyor.
+
+## Bölüm 14
+Yarasa salonuna sonradan dalıp bir dev yarasayı asitle öldürdü. Graska dövüşünde de asit püskürtüyor.

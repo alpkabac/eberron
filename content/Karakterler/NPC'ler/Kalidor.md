@@ -22,3 +22,6 @@ aliases:
 - Atölyesi barikatlı ve tuzaklı ("Sağ tarafa basma!").
 - Grubu kurtardı, Şerif'i tamir etti, baltayı ve tütsüyü identify etti.
 - Diğer mucitler Graska'ya katıldı.
+
+## Bölüm 14
+Grubu Variska'ya götürdü. Herkese birer [[Boomstick]] verdi ve ocaktaki kırmızı şeritli patlayıcı varillerden söz etti. Variska'nın adamlarıyla tutsakları kurtarmaya gitti.

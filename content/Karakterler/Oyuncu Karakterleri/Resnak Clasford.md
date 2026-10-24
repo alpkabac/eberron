@@ -35,3 +35,10 @@ Hayalet atları buldu, Chaos Bolt'la iki zombi indirdi ve Mage Armor kullandı. 
 ## Bölüm 13
 - Geçmişini hatırladı: [[Üç Gözlü Taş]] işaretli cübbeliler onu kovalamıştı, o da bir Gezgin (The Traveler) tapınağına sığınıp [[Gezgin Tütsüsü]]'nü bulmuştu.
 - Grease ve Burning Hands ile merdivenleri ateşe verdi. Tütsü ile büyülerini yeniledi.
+
+## Bölüm 14: Gizemli güç
+- Eldivenle Magic Missile atarken bir **görü** gördü: kum fırtınası, lav nehrinin üstünde taş bir köprü, surlarından lav akan bir kale.
+- Gözleri ve elleri mavi parladı ve **on** büyülü ok attı. Bu, 12. seviye bir büyücünün işi. Şaman [[Krak]]'ı öldürdü.
+- **Kendisi hiçbir şey hatırlamıyor**, arkadaşlarına inanmıyor. (Mornland "anomalisi"yle bağlantılı mı?)
+- [[Kurt Kafatası Miğfer]]'i aldı. Grila'nın taşlarını değerlendirdi.
+- [[Gezgin Tütsüsü]]'nün 1 kullanımı kaldı.
