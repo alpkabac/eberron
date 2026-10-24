@@ -14,7 +14,7 @@ aliases:
 
 [[Percival d'Orien|Percival]], [[Bayeşk Hançer]]'i bu kobold'lardan saklamaya çalışıyordu ([[Ria d'Orien]]).
 
-Resmi adı **Khaar'paal**. Doğuştan gelen büyüleriyle [[House Orien]]'in raylarını Droaam'a uzatmasına yardım ediyorlar. [[Graywall Dağları]]'nda eski Dhakaan tünellerinde geniş yeraltı yerleşimleri var. Yerel halk onlara kuşkuyla bakıyor.
+Resmi adı **Khaar'paal**. Doğuştan gelen büyüleriyle [[House Orien]]'in raylarını Droaam'a uzatmasına yardım ediyorlar. [[Graywall Dağları]]'nda eski Dhakaan tünellerinde geniş yeraltı yerleşimleri var. Yerel halk onlara kuşkuyla bakıyor. Kaynbak
 
 
 > Kaynak: *Eberron Lore* belgesi.
