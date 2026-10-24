@@ -94,8 +94,8 @@
   function askPassword() {
     return new Promise((resolve) => {
       const m = modal("Düzenleme girişi")
-      const pw = el("input", { type: "password", placeholder: "Grup şifresi" })
-      const name = el("input", { type: "text", placeholder: "Adın (geçmişte görünür)", value: store.get(NAME_KEY) ?? "" })
+      const pw = el("input", { type: "password", autocomplete: "off" })
+      const name = el("input", { type: "text", value: store.get(NAME_KEY) ?? "" })
       const msg = el("p", { className: "dz-msg" })
       const ok = el("button", { textContent: "Giriş", className: "dz-primary" })
       const go = async () => {
@@ -114,7 +114,12 @@
       }
       ok.onclick = go
       pw.onkeydown = (e) => e.key === "Enter" && go()
-      m.box.append(pw, name, msg, el("div", { className: "dz-row" }, ok))
+      m.box.append(
+        el("label", {}, "Grup şifresi", pw),
+        el("label", {}, "Adın (değişiklik geçmişinde görünür)", name),
+        msg,
+        el("div", { className: "dz-row" }, ok),
+      )
       pw.focus()
     })
   }
@@ -183,7 +188,9 @@
 .dz-overlay{position:fixed;inset:0;z-index:1000;background:#0008;display:flex;align-items:center;justify-content:center;padding:1rem}
 .dz-box{background:var(--light);color:var(--dark);border:1px solid var(--lightgray);border-radius:8px;padding:1rem 1.2rem;width:min(900px,100%);max-height:100%;display:flex;flex-direction:column;gap:.6rem;box-sizing:border-box}
 .dz-box h3{margin:0}
-.dz-box input,.dz-box textarea{font:inherit;padding:.5rem;border:1px solid var(--lightgray);border-radius:4px;background:var(--light);color:var(--dark);box-sizing:border-box;width:100%}
+.dz-box label{display:flex;flex-direction:column;gap:.3rem;font-size:.9rem;font-weight:600}
+.dz-box input,.dz-box textarea{font:inherit;font-weight:normal;padding:.5rem;border:1px solid var(--gray)!important;border-radius:4px;background:var(--lightgray)!important;color:var(--dark)!important;box-sizing:border-box;width:100%}
+.dz-box input:focus,.dz-box textarea:focus{outline:2px solid var(--secondary)!important}
 .dz-box textarea{font-family:var(--codeFont),monospace;font-size:.9rem;height:65vh;resize:vertical}
 .dz-msg{margin:0;font-size:.9rem;color:var(--darkgray)}
 .dz-row{display:flex;justify-content:flex-end;gap:.5rem}
