@@ -27,6 +27,9 @@
       } catch {}
     },
   }
+  // sifre_kur.mjs ile aynı: harf büyüklüğü, Türkçe karakter ve boşluk farkı önemsiz
+  const fold = (s) =>
+    s.trim().replace(/\s+/g, " ").replace(/[İIı]/g, "i").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
 
   let index = null
   let token = store.get(TOKEN_KEY)
@@ -99,7 +102,7 @@
         ok.disabled = true
         msg.textContent = "Kontrol ediliyor…"
         try {
-          token = await decryptToken(pw.value)
+          token = await decryptToken(fold(pw.value)).catch(() => decryptToken(pw.value))
           store.set(TOKEN_KEY, token)
           store.set(NAME_KEY, name.value.trim())
           m.close()

@@ -6,6 +6,9 @@ import readline from "node:readline/promises"
 
 const REPO = "alpkabac/eberron"
 const ITER = 600000
+// Büyük/küçük harf, Türkçe karakter ve baştaki/sondaki boşluk farkı şifreyi bozmasın
+const fold = (s) =>
+  s.trim().replace(/\s+/g, " ").replace(/[İIı]/g, "i").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 
 const token = (await rl.question("GitHub anahtarini yapistir (github_pat_...): ")).trim()
@@ -17,9 +20,13 @@ if (!res.ok) {
   process.exit(1)
 }
 
-const password = await rl.question("Grup sifresi (oyunculara verecegin): ")
-if ((await rl.question("Sifreyi tekrar yaz: ")) !== password) {
+const password = fold(await rl.question("Grup sifresi (oyunculara verecegin): "))
+if (fold(await rl.question("Sifreyi tekrar yaz: ")) !== password) {
   console.log("\nHATA: Sifreler ayni degil.")
+  process.exit(1)
+}
+if (/[^a-z0-9 ._-]/.test(password)) {
+  console.log(`\nHATA: Sifrede okunamayan karakter var ("${password}"). Sadece harf, rakam ve tire kullan.`)
   process.exit(1)
 }
 if (password.length < 10) {
@@ -45,4 +52,5 @@ fs.writeFileSync(
   new URL("./quartz/static/duzenle-anahtar.json", import.meta.url),
   JSON.stringify({ iter: ITER, salt: b64(salt), iv: b64(iv), data: b64(data) }) + "\n",
 )
-console.log("\nTamam! Simdi 'Eberron Yayinla' ile yayinla, Duzenle butonu calisacak.")
+console.log(`\nKaydedilen sifre: ${password}  (buyuk/kucuk harf ve Turkce harf fark etmez)`)
+console.log("Tamam! Simdi 'Eberron Yayinla' ile yayinla, Duzenle butonu calisacak.")
