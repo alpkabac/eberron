@@ -35,3 +35,8 @@ Yarasayla konuştu, Entangle yaptı ve toprak elementalleri çağırdı. Sunakta
 
 ## Bölüm 14
 Tuzak tespiti yaptı. Jelatin küpe Flaming Sphere attı. Dev yarasalara Animal Trance yaptı. Toka'yı çağırdı. Graska'ya Flaming Sphere attı. [[Kemik Kolye]]'yi aldı.
+
+## Bölüm 15
+- [[Zorn]]'u ve toprak elementallerini Graska'nın etrafına çağırdı. Graska hepsini bir büyüyle dağıttı.
+- Hail of Stone ile ilk kez fiziksel hasar verdi. Graska'ya Slow attı.
+- Patlamadan kurtulmak için bir Hero Inspiration harcadı.

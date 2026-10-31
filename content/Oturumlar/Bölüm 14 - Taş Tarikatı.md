@@ -6,7 +6,7 @@ tags:
 
 # Bölüm 14 - Taş Tarikatı
 
-> [YouTube'da izle](https://www.youtube.com/watch?v=INlRAZi7zIE) · Önceki: [[Bölüm 13 - İç Savaş]]
+> [YouTube'da izle](https://www.youtube.com/watch?v=INlRAZi7zIE) · Önceki: [[Bölüm 13 - İç Savaş]] · Sonraki: [[Bölüm 15 - Dağların Koboldları]]
 
 ## Variska'nın sığınağı
 - [[Kalidor]] grubu barikatın arkasına götürüyor. Burası eski bir [[Dhakaan İmparatorluğu|Dhakaan]] salonu. İçeride 25-30 kobold var: yaşlılar, çocuklar, yaralılar. Silah tutabilen yalnızca iki üç kişi.

@@ -15,3 +15,6 @@ tags:
 - Heykellerin arkasında Quickstone [[Gargoyle]]'lar bekliyor. Orkun arkasındaki gargoyle eksik.
 - Plaketlerde [[Mühür Kehaneti]] yazılı.
 - [[Ashara]]'nın teorisi: [[Gatekeepers]] burada bir [[Daelkyr]]'i mühürledi ([[Orlask]]?).
+
+## Bölüm 15
+Komazdal'ın ritüel odasındaki kabartmalarda kobold'lar [[Dolgrim]]'ler ve [[Daelkyr]]'larla savaşıyor. Bu, mühür odasındaki kehanetle bağlantılı: hançer bu savaşın ödülü olabilir.

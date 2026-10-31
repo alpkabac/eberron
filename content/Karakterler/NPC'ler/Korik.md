@@ -15,3 +15,6 @@ tags:
 - Grubu Graska'nın adamlarından sakladı. Klanın bölünmesini, [[Variska]]'yı ve tasmaları anlattı.
 - Edmund'un hançeri çaldığı geceyi hatırlıyor ([[Bayeşk Hançer]]).
 - Gruba [[Kemik Düdük]]'ü verdi.
+
+## Bölüm 15
+Kaçış gecesi bazı yarasaları kurtarıp dışarı çıkarabildi. Klanla birlikte Quickstone'a gidiyor.

@@ -10,7 +10,7 @@ tags:
 [[Percival d'Orien]]'in taşıdığı mor [[Bayeşk]] hançer. [[Gargoyle Kadın]] onu çaldı.
 
 - [[Mühür Kehaneti]]'ne göre hançer, "dağların kurnaz koboldları"nın silahı. Hançerin [[Mühür Odası]]'ndan alınmış olması muhtemel.
-- **Şu an kayıp.**
+- ~~Şu an kayıp.~~ Bölüm 15'ten beri [[Resnak Clasford|Resnak]]'ta.
 
 ## [[Ria d'Orien]]'in anlattıkları
 - Hançer, Percival'a babası [[Edmund]]'dan kalan bir **aile yadigarıydı**.
@@ -22,3 +22,6 @@ Hançer [[Komazdal Klanı]]'nın **rahibine** aitti. Otuz kırk yıl önce [[Edm
 
 ## Bölüm 14
 Graska'nın ritüel odasında, diz çökmüş yedinci kobold heykelinin elleri arasında duruyor. Mor parlıyor ve ışığı yansıtmıyor.
+
+## Bölüm 15: Bulundu!
+Grup [[Altı Heykel Bilmecesi]]'ni çözdü. Heykeller "Taşa boyun eğme!" diye yankılanıp parçalandı ve hançer yere düştü. **Hançer artık [[Resnak Clasford|Resnak]]'ta.**

@@ -34,3 +34,9 @@ Ek bilgiler:
 - Ölenler: Şaman [[Krak]], komutan [[Grila]], ocaktaki mucitler, yarasa salonundaki okçular.
 - [[Mira]] kurtarıldı.
 - Variska'nın adamları tutsakları kurtarmaya gitti.
+
+## Bölüm 15: Sürgün
+- [[Graska]] öldü ve [[Altı Heykel Bilmecesi]] çözüldü. Heykeller "Taşa boyun eğme!" diye parçalandı.
+- Duvar kabartmalarında kobold savaşçıları [[Dolgrim]]'ler ve [[Daelkyr]]'larla savaşıyor. Köklü bir klan; geçmişte aberration'larla savaşmışlar. Hançer de muhtemelen bunun ödülüydü.
+- Aynı gece [[Diorit]] saldırdı. Klan 200-300 yıllık yurdunu terk etti.
+- Yaklaşık 30 kobold ([[Variska]], [[Kalidor]], [[Karakon]], [[Korik]] ve diğerleri) geçici olarak [[Quickstone]]'a gidiyor.

@@ -27,3 +27,6 @@ Yarasa yakaladı. Rithia'yı kurtarmak için bir kobold'a asit püskürtüp ona 
 
 ## Bölüm 14
 Yarasa salonuna sonradan dalıp bir dev yarasayı asitle öldürdü. Graska dövüşünde de asit püskürtüyor.
+
+## Bölüm 15
+Ritüel odasındaki Draconic yazıları çevirdi. Önce şaka yaptı: "Quickstone'dan gelen aptal şerif bu odaya giremez." Kaçış gecesi ortalıkta yoktu.

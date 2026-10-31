@@ -42,3 +42,9 @@ Hayalet atları buldu, Chaos Bolt'la iki zombi indirdi ve Mage Armor kullandı. 
 - **Kendisi hiçbir şey hatırlamıyor**, arkadaşlarına inanmıyor. (Mornland "anomalisi"yle bağlantılı mı?)
 - [[Kurt Kafatası Miğfer]]'i aldı. Grila'nın taşlarını değerlendirdi.
 - [[Gezgin Tütsüsü]]'nün 1 kullanımı kaldı.
+
+## Bölüm 15
+- Burning Hands ile Graska'nın ayna suretlerini yok etti. Shield ve Blur kullandı.
+- Bilmecede yanlış dizilimi yerleştirince diz çöküp donup kaldı.
+- Davulun Dhakaan döneminden kaldığını anladı ([[Dhakaan Davulu]]).
+- **[[Bayeşk Hançer]] artık onda.** Tapınakta hançeri taşıyacak kişi olarak zaten o seçilmişti.

@@ -30,3 +30,5 @@ tags:
 | Sypheros 17-19 | [[Aramha]] bayramı (18: Gal Aramha) |
 | Sypheros 15 gecesi | Komazdal'a sızma, Korik, dövüş, Kalidor ([[Bölüm 13 - İç Savaş]]) |
 | Sypheros 15-16 gecesi | Variska, jelatin küp, Krak'ın ölümü, ocak patlaması, Graska'yla dövüş ([[Bölüm 14 - Taş Tarikatı]]) |
+| Sypheros 16 | Graska öldü, heykel bilmecesi çözüldü, hançer Resnak'ta; gece Diorit saldırdı, Komazdal kaçtı ([[Bölüm 15 - Dağların Koboldları]]) |
+| ~Sypheros 19 | Grup ve Komazdal mültecileri Quickstone'a varacak |

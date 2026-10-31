@@ -45,3 +45,11 @@ Dövüşte en çok hasarı verenlerden biriydi. [[Kalidor]] onu tamir etti ("Sen
 
 ## Bölüm 14
 Grila'nın cesedini aradı. Dhakaan sikkesini okudu. Heat Metal yedi, tabancası tutukluk yaptı. Kazanın zincirini vurup ocağı havaya uçurdu. Variska'ya kendini **"Gone"** diye tanıttı.
+
+## Bölüm 15
+- Silahları tutukluk yaptı. **İlk kez kısa kılıcını çekti.**
+- Graska'nın zırhını delen kurşunu o attı.
+- Graska'nın **kafasını kesti** ve Quickstone'un girişine asmak istiyor: "Kimse bize saygı duymuyor."
+- [[Altı Heykel Bilmecesi]]'nin ilk aşamasını çözdü: Ateş, El, Çekiç, Göz, Taç, Zincir. Ekstra Inspiration kazandı.
+- [[Kalidor]]'un atölyesinde 6 kurşun döktü.
+- Kobold mültecilere önce "Bize ne?" dedi, sonra Quickstone'a gelmelerini önerdi. Kalidor onun tribex'inde.

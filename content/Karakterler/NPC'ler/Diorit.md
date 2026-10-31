@@ -22,3 +22,8 @@ aliases:
 - Ritüel odasında kil bir heykel ağzından konuştu: *"Gri Leydi sizi dinliyor."* Yankılı bir kadın sesi: *"Taş yalan söylemez."*
 - Kil heykellerden birinin yüzü trendeki [[Gargoyle Kadın]]'ınkine benziyordu. **Gargoyle Kadın = Diorit?**
 - Bağlantılar: [[Orlask]] (taşın efendisi, "taşın huzuru"), [[Üç Gözlü Taş]].
+
+## Bölüm 15
+- [[Graska]] ölmeden önce ondan döndü: *"Diorit bize özgürlük getirmedi, bize taşın sesini verdi... [[Orlask]] hakikattir."*
+- Graska'nın ölümünün **aynı gecesi** yaratıklarla birlikte Komazdal'ın eski tapınağına geldi ve kobold'ların bir kısmını öldürdü. Klan mağaraları terk etmek zorunda kaldı.
+- Grup onu bu kez de görmedi.

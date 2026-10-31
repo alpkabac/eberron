@@ -21,3 +21,6 @@ Eberron kaynaklarındaki adıyla **Orlassk**: "Taşın Efendisi" diye bilinen [[
   - [[Quickstone Taşı]]nı ve madeni Orlask yaratmış olabilir.
   - Mühür odasındaki [[Gargoyle]]'lar ve [[Gargoyle Kadın]] onun hizmetinde olabilir.
 - Bkz. [[Mühür Kehaneti]].
+
+## Bölüm 15
+[[Graska]]'nın son sözleri: *"Taşın merhameti yok, taş sadece hatırlar. Orlask hakikattir."* [[Diorit]]'in kültünün ardında Orlask var gibi görünüyor.

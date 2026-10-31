@@ -46,3 +46,10 @@ Devriyeyi takip ederken yakalandı ("Erikli" adıyla). Hagar sayesinde kaçtı. 
 
 ## Bölüm 14
 Jelatin küpü Ear-Piercing Scream ile öldürdü. Boomstick'i ocaktaki varilleri patlattı. Graska dövüşünde Inspire Courage çalıyor.
+
+## Bölüm 15
+- Wand'ıyla Orb of Fire attı ve sonuncu Dolgrim'i öldürdü. Graska'ya Hideous Laughter ve Scream yaptı.
+- Graska'nın kara enerji topunu yedi.
+- Bilmecede ilk yanlış denemede diz çöküp donup kaldı. Bardic Knowledge ile bilmecenin temasını ("itaat mi, yaratmak mı") buldu.
+- Zarla [[Kırık Ayna Yüzük]]'ü kazandı.
+- [[Kalidor]]'la flörtleşti.

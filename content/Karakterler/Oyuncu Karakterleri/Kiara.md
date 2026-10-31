@@ -45,3 +45,11 @@ Barbar kobold'u öldürdü. Kanayan bir yara aldı ve Daff'ın iksirini içti (z
 - **Bir gözünü kaybetti.** 30 ft yüksekten bir dev yarasanın üstüne atladı ve yarasa onu pençeleyip ısırdı. Kalıcı olarak Spot ve menzilli saldırılarda -4 alıyor.
 - -7 HP'den Vitality iksiri ve Cure Light Wounds ile döndü. Hero Inspiration'ları bitti.
 - [[Mira]]'yı ailesine götürdü.
+
+## Bölüm 15
+- Bir Dolgrim'in kafasını kesti, bir tanesini de arkasından dolanıp öldürdü.
+- Graska'nın **Sorrow** büyüsünü yedi: 5 tur boyunca -3. Kil golemle tek başına çarpıştı.
+- Graska'nın taş kolunun patlamasıyla **-9 HP**'ye düştü. İksirlerle döndü.
+- [[Altı Heykel Bilmecesi]]'nin ikinci aşamasını çözdü: yaratan ile hükmedenin yerini değiştirdi. Ekstra Inspiration kazandı.
+- Regenerate 7. seviye büyü olduğundan gözü şimdilik geri gelmiyor. [[Kalidor]] yapay göz deneyecek. Şimdilik [[Karakon]]'un verdiği **göz bandını** takıyor.
+- Komazdal mültecilerini Quickstone'a götürmeyi savundu.

@@ -62,3 +62,6 @@ Breland'ın batı sınırında, "dünyanın bilinen ucundaki" bir maden kasabas�
 - Bölgede agave ve kum meyvesi yetiştiriliyor.
 - Yönetim: [[Quickstone Konseyi]], [[Quickstone Kanunu]].
 - Kasabanın gerçek teması kahramanlık değil, **hayatta kalmak**.
+
+## Bölüm 15
+Yaklaşık 30 [[Komazdal Klanı|Komazdal]] kobold'u mülteci olarak geliyor; [[Kalidor]] da aralarında. Kalmalarına [[Yargıç Facet]] karar verecek. Grup, [[Graska]]'nın kafasını kasabanın girişine asmayı düşünüyor. DM: "Quickstone'da sizi bir anahtar bekliyor olacak."

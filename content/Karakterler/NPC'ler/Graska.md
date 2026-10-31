@@ -2,6 +2,7 @@
 tür: npc
 tags:
   - npc
+  - ölü
   - ipucu
   - komazdal
 ---
@@ -23,3 +24,11 @@ tags:
 - Söyledikleri: *"Taş hatırlar."*
 - Dövüşte: Dolgrim'leri çağırdı ve iyileştirdi. Büyülü bir eşyayla Mirror Image yaptı (dört Graska). Grubun ayağının altındaki taşı çamura çevirdi.
 - Dövüş Bölüm 14'ün sonunda devam ediyordu.
+
+## Bölüm 15: Ölümü
+- Mor cübbesinin altında: göğüs zırhı ve **taşla kaplı, üstünde canlı gözler açılıp dönen pençeli bir kol**.
+- Kullandığı büyüler: Sorrow (Kiara'ya), çağrılmış yaratıkları dağıtma, Entropic Shield, kara enerji topu, kendini iyileştirme.
+- Ritüel odasındaki kil heykellerden biri canlanıp onun safında savaştı.
+- Son çare: *"Diorit yalan söylüyor, taşın merhameti yok"* diyerek gözlü kolunu yere vurup parçaladı. Patlama herkese hasar verdi.
+- Can çekişirken söyledikleri: *"Diorit bize özgürlük getirmedi. Bize taşın sesini verdi. Taşın merhameti yok, taş sadece hatırlar. [[Orlask]] hakikattir."*
+- **Öldü.** [[Şerif]] kafasını kesip aldı ve Quickstone'un girişine asmayı planlıyor. Üstünden bir [[Kırık Ayna Yüzük]] çıktı.

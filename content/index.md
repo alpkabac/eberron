@@ -26,6 +26,7 @@ aliases:
 12. [[Bölüm 12 - Biletler Lütfen]]
 13. [[Bölüm 13 - İç Savaş]]
 14. [[Bölüm 14 - Taş Tarikatı]]
+15. [[Bölüm 15 - Dağların Koboldları]]
 
 ## Grup
 | Karakter | Oyuncu | Özet |

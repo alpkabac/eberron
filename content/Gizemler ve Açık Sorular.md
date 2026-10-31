@@ -79,3 +79,15 @@ tags:
 - [ ] Graska hançerle ne yapmayı planlıyor? Aramha gecesi kurban mı?
 - [ ] Obsidyen kobold heykelciğinin anlamı ne?
 - [x] Kayıp çocuk Mira kurtarıldı.
+
+## Bölüm 15'te eklenenler
+- [ ] Graska neden Diorit'ten döndü? "Diorit yalan söylüyor... Orlask hakikattir." Diorit Orlask'a mı hizmet ediyor?
+- [ ] [[Diorit]] Komazdal'a hangi yaratıklarla geldi? Ne istiyor: hançer mi, intikam mı?
+- [ ] [[Kırık Ayna Yüzük]] ne yapıyor? Mirror Image mi?
+- [ ] [[Dhakaan Davulu]]'nun özelliği ne?
+- [ ] DM: "Quickstone'da sizi bir **anahtar** bekliyor." [[Altın Anahtar]] ile ilgili mi?
+- [ ] Kalidor Kiara'ya yapay göz yapabilecek mi?
+- [ ] Komazdal mültecileri Quickstone'da kalabilecek mi? [[Yargıç Facet]] ne diyecek?
+- [x] Hançer bulundu: [[Bayeşk Hançer]] Resnak'ta.
+- [x] Graska öldü.
+- [x] Altı heykel bir büyülü kilitti ([[Altı Heykel Bilmecesi]]).

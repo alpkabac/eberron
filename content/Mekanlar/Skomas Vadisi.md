@@ -33,3 +33,6 @@ Graywall Dağları'nın güneyinde. [[Komazdal Klanı]]'nın dev yarasa yuvalar�
 - **Yarasa salonu:** Krak'ın yeri. Duvarlarda ejderhalarla savaşan kobold resimleri var.
 - **Ocak:** Patlamayla yok oldu.
 - **Ritüel odası:** Kusursuz bir daire, Dhakaan rünleri, mor ışık, kil heykeller, hançerli yedinci heykel.
+
+## Bölüm 15
+[[Komazdal Klanı]]'nın mağaraları terk edildi. [[Diorit]] ve yaratıkları eski tapınakta. Sypheros 16 gecesi kobold'lar vadiden kaçtı.
